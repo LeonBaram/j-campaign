@@ -47,6 +47,8 @@
 - 1 type of artisan's tools  
 - land vehicles  
   
+**money**: 150gp  
+  
 ## inventory  
 |#  |lb |item            |  
 |---|---|----------------|  
