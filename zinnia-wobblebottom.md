@@ -109,3 +109,4 @@
 ## TODO  
 - pick spells  
 - spend bonus 150gp  
+- fill out personality traits / ideals / bonds / flaws  
