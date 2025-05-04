@@ -79,7 +79,7 @@
 **spell attack**: +6 [+wis](#stats) [+prof](#prof)  
 **spell save dc**: 14 [+wis](#stats) [+prof](#prof)  
   
-## spells known - TODO  
+## spells known  
 ### cantrips  
 ### lvl1  
 ### lvl2  
@@ -105,3 +105,7 @@
 - we're friends  
 - we are basically a "witcher squad"  
     - fight monsters & bandits & shit for $$$  
+
+## TODO  
+- pick spells  
+- spend bonus 150gp  
