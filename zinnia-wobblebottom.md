@@ -95,7 +95,7 @@
 - pass without trace* (VSM)
 - heat metal (VSM)
 - moonbeam (VSM)
-- animal messenger (VSM)
+- animal messenger (VSM) [rit]
 #### lvl3
 - daylight* (VS)
 - haste* (VSM)
