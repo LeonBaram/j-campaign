@@ -135,4 +135,3 @@
 ## TODO  
 - spend bonus 150gp  
 - fill out personality traits / ideals / bonds / flaws  
-- track weight / carry capacity
