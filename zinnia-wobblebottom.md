@@ -8,7 +8,7 @@
 ## prof  
 **proficiency bonus**: +3  
   
-**armor class**: ???  
+**armor class**: 12  
   
 **initiatve**: +6  
 [+dex](#stats)  
