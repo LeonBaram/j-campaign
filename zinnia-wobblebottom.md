@@ -1,5 +1,5 @@
 # Zinnia Wobblebottom  
-**class/level**: Druid 5, Circle of the Land  
+**class/level**: Druid 5, Circle of the Land, Grassland  
 **race**: Variant Human  
 **background**: Folk Hero (slightly reflavored)  
 **age**: 69  
@@ -79,12 +79,31 @@
 **spell attack**: +6 [+wis](#stats) [+prof](#prof)  
 **spell save dc**: 14 [+wis](#stats) [+prof](#prof)  
   
-## spells known  
-### cantrips  
-### lvl1  
-### lvl2  
-### lvl3  
-  
+### cantrips known  
+- [produce flame](https://2014.5e.tools/spells.html#produce%20flame_phb)
+- [shillelagh](https://2014.5e.tools/spells.html#shillelagh_phb)
+- [guidance](https://2014.5e.tools/spells.html#guidance_phb)
+- [druidcraft](https://2014.5e.tools/spells.html#druidcraft_phb)
+
+### spells prepared  
+#### lvl1
+- speak with animals (VS) [rit]
+- goodberry (VSM)
+- healing word (V)
+#### lvl2
+- invisibility* (VSM)
+- pass without trace* (VSM)
+- heat metal (VSM)
+- moonbeam (VSM)
+- animal messenger (VSM)
+#### lvl3
+- daylight* (VS)
+- haste* (VSM)
+- call lightning (VS)
+- speak with plants (VS)
+
+\*always prepared
+
 ## features  
 ### feats  
 - [alert](https://2014.5e.tools/feats.html#alert_phb)  
@@ -107,6 +126,6 @@
     - fight monsters & bandits & shit for $$$  
 
 ## TODO  
-- pick spells  
 - spend bonus 150gp  
 - fill out personality traits / ideals / bonds / flaws  
+- track weight / carry capacity
