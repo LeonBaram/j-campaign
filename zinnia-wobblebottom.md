@@ -8,7 +8,8 @@
 ## prof  
 **proficiency bonus**: +3  
   
-**armor class**: 12  
+**armor class**: 13  
+(wooden shield)  
   
 **initiatve**: +6  
 [+dex](#stats)  
@@ -48,19 +49,25 @@
 - land vehicles  
   
 **money**: 150gp  
-  
+**total weight**: 47 lb  
+
+### encumbrance thresholds
+- **50 lb** [str*5](#stats)
+    - speed -= 10
+- **100 lb** [str*10](#stats)
+    - speed -= 20
+    - disadvantage on attacks/checks/saves that use STR/DEX/CON
+    - includes **initiative** and **concentration**
+- **150 lb** [str*15](#stats)
+    - max carry capacity
+
 ## inventory  
 |#  |lb |item            |  
 |---|---|----------------|  
 |1  |6  |[wooden shield   ](https://2014.5e.tools/items.html#shield_phb)|  
 |1  |4  |[quarterstaff*   ](https://2014.5e.tools/items.html#quarterstaff_phb)|  
-|1  |10 |[leather armor   ](https://2014.5e.tools/items.html#leather%20armor_phb)|  
 |1  |5  |[backpack        ](https://2014.5e.tools/items.html#backpack_phb)|  
 |1  |7  |[bedroll         ](https://2014.5e.tools/items.html#bedroll_phb)|  
-|1  |1  |[mess kit        ](https://2014.5e.tools/items.html#mess%20kit_phb)|  
-|1  |1  |[tinderbox       ](https://2014.5e.tools/items.html#tinderbox_phb)|  
-|10 |1  |[torch           ](https://2014.5e.tools/items.html#torch_phb)|  
-|10 |2  |[daily ration    ](https://2014.5e.tools/items.html#rations%20(1%20day)_phb)|  
 |1  |5  |[waterskin       ](https://2014.5e.tools/items.html#waterskin_phb)|  
 |1  |10 |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
   
@@ -87,19 +94,19 @@
 
 ### spells prepared  
 #### lvl1
-- speak with animals (VS) [rit]
 - goodberry (VSM)
 - healing word (V)
+- speak with animals (VS) [rit]
 #### lvl2
-- invisibility* (VSM)
-- pass without trace* (VSM)
-- heat metal (VSM)
-- moonbeam (VSM)
-- animal messenger (VSM) [rit]
+- barkskin (VSM) [C]
+- heat metal (VSM) [C]
+- invisibility* (VSM) [C]
+- moonbeam (VSM) [C]
+- pass without trace* (VSM) [C]
 #### lvl3
 - daylight* (VS)
-- haste* (VSM)
-- call lightning (VS)
+- haste* (VSM) [C]
+- sleet storm (VSM) [C]
 - speak with plants (VS)
 
 \*always prepared
