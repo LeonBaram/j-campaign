@@ -10,7 +10,7 @@
   
 **armor class**: ???  
   
-**initiatve**: +8  
+**initiatve**: +6  
 [+dex](#stats)  
   
 **speed**: 30  
