@@ -4,6 +4,7 @@
 **background**: Folk Hero (slightly reflavored)  
 **age**: 69  
 **gender**: lady  
+**alignment**: Chaotic Good
   
 ## prof  
 **proficiency bonus**: +3  
