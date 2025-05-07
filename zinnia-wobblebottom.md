@@ -68,6 +68,10 @@
     - [spears](https://2014.5e.tools/items.html#spear_phb)
 - tools: [herbalism kit](https://2014.5e.tools/items.html#herbalism%20kit_phb)
 
+## languages
+- Common
+- Elvish
+
 **money**: 150gp  
 **total weight**: 47 lb  
 
