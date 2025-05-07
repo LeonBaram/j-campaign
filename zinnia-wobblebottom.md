@@ -51,7 +51,23 @@
 ## other proficiencies  
 - [brewer's supplies](https://2014.5e.tools/items.html#brewer's%20supplies_phb)
 - land vehicles  
-  
+- armor:
+    - [light armor](https://2014.5e.tools/items.html#blankhash,flsttype:light%20armor=1)
+    - [medium armor](https://2014.5e.tools/items.html#blankhash,flsttype:medium%20armor=1)
+    - [shields](https://2014.5e.tools/items.html#shield_phb)
+- weapons:
+    - [clubs](https://2014.5e.tools/items.html#club_phb)
+    - [daggers](https://2014.5e.tools/items.html#dagger_phb)
+    - [darts](https://2014.5e.tools/items.html#dart_phb)
+    - [javelins](https://2014.5e.tools/items.html#javelin_phb)
+    - [maces](https://2014.5e.tools/items.html#mace_phb)
+    - [quarterstaffs](https://2014.5e.tools/items.html#quarterstaff_phb)
+    - [scimitars](https://2014.5e.tools/items.html#scimitar_phb)
+    - [sickles](https://2014.5e.tools/items.html#sickle_phb)
+    - [slings](https://2014.5e.tools/items.html#sling_phb)
+    - [spears](https://2014.5e.tools/items.html#spear_phb)
+- tools: [herbalism kit](https://2014.5e.tools/items.html#herbalism%20kit_phb)
+
 **money**: 150gp  
 **total weight**: 47 lb  
 
