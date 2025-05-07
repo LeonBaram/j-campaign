@@ -45,6 +45,9 @@
 - insight (+6)  
 [+wis](#stats) [+prof](#prof)  
   
+**passive perception**: 16  
+[+wis](#stats) [+prof](#prof)  
+
 ## other proficiencies  
 - 1 type of artisan's tools  
 - land vehicles  
