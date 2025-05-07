@@ -49,7 +49,7 @@
 [+wis](#stats) [+prof](#prof)  
 
 ## other proficiencies  
-- 1 type of artisan's tools  
+- [brewer's supplies](https://2014.5e.tools/items.html#brewer's%20supplies_phb)
 - land vehicles  
   
 **money**: 150gp  
