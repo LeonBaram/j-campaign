@@ -156,6 +156,20 @@
 - we are basically a "witcher squad"  
     - fight monsters & bandits & shit for $$$  
 
+## Characteristics
+
+### Personality Traits
+- I am utterly serene, even in the face of disaster.
+- I often get lost in my own thoughts and contemplation, becoming oblivious to my surroundings.
+
+### Ideal
+- **Freedom.** Tyrants must not be allowed to oppress the people. (Chaotic)
+
+### Bond
+- I protect those who cannot protect themselves.
+
+### Flaw
+- Secretly, I believe that things would be better if I were a tyrant lording over the land.
+
 ## TODO  
 - spend bonus 150gp  
-- fill out personality traits / ideals / bonds / flaws  
