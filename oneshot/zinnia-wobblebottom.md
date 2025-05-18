@@ -72,8 +72,8 @@
 - Common
 - Elvish
 
-**money**: 150gp  
-**total weight**: 47 lb  
+**money**: 0gp
+**total weight**: 37.5 lb  
 
 ### encumbrance thresholds
 - **50 lb** [str*5](#stats)
