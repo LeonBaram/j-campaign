@@ -94,6 +94,7 @@
 |1  |7  |[bedroll         ](https://2014.5e.tools/items.html#bedroll_phb)|  
 |1  |5  |[waterskin       ](https://2014.5e.tools/items.html#waterskin_phb)|  
 |1  |10 |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
+|1  |0  |[truth serum     ](https://2014.5e.tools/items.html#truth%20serum_dmg)|  
   
 \*druidic focus  
   
@@ -170,6 +171,3 @@
 
 ### Flaw
 - Secretly, I believe that things would be better if I were a tyrant lording over the land.
-
-## TODO  
-- spend bonus 150gp  
