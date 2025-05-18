@@ -94,8 +94,8 @@
 |1  |7  |[bedroll         ](https://2014.5e.tools/items.html#bedroll_phb)|  
 |1  |5  |[waterskin       ](https://2014.5e.tools/items.html#waterskin_phb)|  
 |1  |10 |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
-|1  |0  |[truth serum     ](https://2014.5e.tools/items.html#truth%20serum_dmg)|  
 |1  |0  |[boots of speed  ](https://2014.5e.tools/items.html#boots%20of%20speed_dmg)|
+|1  |0.1|warding bond ring|
 |1  |0.5|[potion of poison resistance](https://2014.5e.tools/items.html#potion%20of%20poison%20resistance_dmg)|
   
 \*druidic focus  
