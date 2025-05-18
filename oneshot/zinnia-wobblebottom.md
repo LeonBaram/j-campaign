@@ -99,6 +99,9 @@
   
 \*druidic focus  
   
+### attuned  
+- boots of speed  
+  
 ## resources  
 - **luck points**: 3 / 3  
   
