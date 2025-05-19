@@ -17,7 +17,7 @@
   
 **speed**: 30  
   
-**hp**: 45 / 45  
+**hp**: 28 / 45  
 **temp hp**: 0  
 [increase to con mod ~ hp += $LVL](#stats)  
   
@@ -73,7 +73,7 @@
 - Elvish
 
 **money**: 0gp
-**total weight**: 37.5 lb  
+**total weight**: 37.6 lb  
 
 ### encumbrance thresholds
 - **50 lb** [str*5](#stats)
@@ -97,6 +97,7 @@
 |1  |0  |[boots of speed  ](https://2014.5e.tools/items.html#boots%20of%20speed_dmg)|
 |1  |0.1|warding bond ring|
 |1  |0.5|[potion of poison resistance](https://2014.5e.tools/items.html#potion%20of%20poison%20resistance_dmg)|
+|1  |0.5|potion of greater healing|
   
 \*druidic focus  
   
@@ -105,12 +106,13 @@
   
 ## resources  
 - **luck points**: 3 / 3  
+- **wildshape**: 0 / 2
   
 ## spell slots  
 |lvl|max|slots|  
 |---|---|-----|  
-|1  |4  |4    |  
-|2  |3  |3    |  
+|1  |4  |3    |  
+|2  |3  |1    |  
 |3  |2  |1    |  
   
 **spell attack**: +6 [+wis](#stats) [+prof](#prof)  
@@ -124,7 +126,7 @@
 
 ### spells prepared  
 #### lvl1
-- goodberry (VSM)
+- goodberry (VSM) (unprepared)
 - healing word (V)
 - speak with animals (VS) [rit]
 #### lvl2
@@ -137,6 +139,7 @@
 - daylight* (VS)
 - haste* (VSM) [C]
 - sleet storm (VSM) [C]
+- call lightning (VS) [C]
 - speak with plants (VS)
 
 \*always prepared
