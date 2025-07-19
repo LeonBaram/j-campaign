@@ -77,6 +77,8 @@
 **money**: 25gp  
 **total weight**: 102.25 lb  
 
+(Note: holy shit, even with my starting inventory my character will have a speed of 15ft. wtf??)
+
 ### encumbrance thresholds
 - **95 lb** [str*5](#stats)
     - speed -= 10
