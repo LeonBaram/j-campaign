@@ -77,7 +77,7 @@
 **money**: 25gp  
 **total weight**: 100.5 lb  
 
-**max weight**: 285lb
+**max weight**: 285 lb
 
 (Note: holy shit, even with my starting inventory my character will have a speed of 15ft. wtf??)
 
