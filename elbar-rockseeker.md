@@ -6,6 +6,8 @@
 **gender**: male  
 **alignment**: Lawful Good
 
+**inspiration**: yes
+
 ###### prof
 **proficiency bonus**: +2  
 
@@ -20,13 +22,13 @@
 
 **speed**: 25  
 
-**hp**: 13 / 13  
-**temp hp**: 0  
+**hp**: 1 / 13  
+**temp hp**: 4  
 [increase to con mod ~ hp += $LVL](#stats)
 
-**hit dice**: 1d10 / 1d10  
+**hit dice**: 0d10 / 1d10  
 
-**death saves**: 0 pass; 0 fail  
+**death saves**: 1 pass; 0 fail  
 
 ## stats  
 |stat|score|save|mod|  
@@ -111,7 +113,7 @@
 - [divine sense](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-0)
     - uses: 4 / 4 (1+cha [#stats])
 - [lay on hands](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-1)
-    - hp pool: 5 / 5 (5 x LVL)
+    - hp pool: 2 / 5 (5 x LVL)
 
 ## Characteristics
 
