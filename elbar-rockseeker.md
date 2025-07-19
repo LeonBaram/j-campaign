@@ -102,8 +102,8 @@
 |1   |1  |N/A  |[amulet - holy symbol - Moradin](https://2014.5e.tools/items.html#amulet_phb)|  
 |1   |5  |N/A  |[backpack](https://2014.5e.tools/items.html#backpack_phb)|  
 |1   |7  |N/A  |[bedroll](https://2014.5e.tools/items.html#bedroll_phb)|  
-|1   |1  |8    |[tinder box](https://2014.5e.tools/items.html#tinderbox_phb)|  
-|3   |2  |9    |[day's worth of rations](https://2014.5e.tools/items.html#rations%20(1%20day)_phb)|  
+|1   |1  |7    |[tinder box](https://2014.5e.tools/items.html#tinderbox_phb)|  
+|10  |2  |8,9  |[day's worth of rations](https://2014.5e.tools/items.html#rations%20(1%20day)_phb)|  
 |1   |5  |10   |[waterskin](https://2014.5e.tools/items.html#waterskin_phb)|  
 |1   |10 |N/A  |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
 
