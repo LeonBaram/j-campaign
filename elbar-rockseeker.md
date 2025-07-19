@@ -75,40 +75,31 @@
 - Giant
 
 **money**: 25gp  
-**total weight**: 102.25 lb  
+**total weight**: 100.5 lb  
+
+**max weight**: 285lb
 
 (Note: holy shit, even with my starting inventory my character will have a speed of 15ft. wtf??)
 
-### encumbrance thresholds
-- **95 lb** [str*5](#stats)
-    - speed -= 10
-- **190 lb** [str*10](#stats)
-    - speed -= 20
-    - disadvantage on attacks/checks/saves that use STR/DEX/CON
-    - includes **initiative** and **concentration**
-- **285 lb** [str*15](#stats)
-    - max carry capacity
-
-**slot limit**: 22 - 3 + STRENGTH
+**slot limit**: 22 (3 + STRENGTH)
 
 ## inventory  
 |#   |lb |slots|item|  
 |----|---|-----|----|  
-|1   |4  |4    |[traveler's clothes](https://2014.5e.tools/items.html#traveler's%20clothes_phb)|
-|0.5 |1  |1    |[50 gold coins](https://2014.5e.tools/items.html#gold%20(gp)_phb)|  
-|1   |2  |2    |[warhammer](https://2014.5e.tools/items.html#warhammer_phb)|  
-|1   |6  |3    |[shield](https://2014.5e.tools/items.html#shield_phb)|  
-|1   |55 |N/A  |[chain mail armor](https://2014.5e.tools/items.html#chain%20mail_phb)|  
-|1   |1  |N/A  |[amulet - holy symbol - Moradin](https://2014.5e.tools/items.html#amulet_phb)|  
-|1   |5  |N/A  |[backpack](https://2014.5e.tools/items.html#backpack_phb)|  
-|1   |7  |N/A  |[bedroll](https://2014.5e.tools/items.html#bedroll_phb)|  
-|1   |1  |7    |[tinder box](https://2014.5e.tools/items.html#tinderbox_phb)|  
-|10  |2  |8,9  |[day's worth of rations](https://2014.5e.tools/items.html#rations%20(1%20day)_phb)|  
-|1   |5  |10   |[waterskin](https://2014.5e.tools/items.html#waterskin_phb)|  
-|1   |10 |N/A  |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
+|1   |55 |WEAR |[chain mail armor](https://2014.5e.tools/items.html#chain%20mail_phb)|  
+|1   |1  |WEAR |[amulet - holy symbol - Moradin](https://2014.5e.tools/items.html#amulet_phb)|  
+|1   |5  |WEAR |[backpack](https://2014.5e.tools/items.html#backpack_phb)|  
+|1   |7  |WEAR |[bedroll](https://2014.5e.tools/items.html#bedroll_phb)|  
+|1   |10 |WEAR |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
+|1   |4  |S1   |[traveler's clothes](https://2014.5e.tools/items.html#traveler's%20clothes_phb)|
+|0.5 |1  |S2   |[50 gold coins](https://2014.5e.tools/items.html#gold%20(gp)_phb)|  
+|1   |2  |S3   |[warhammer](https://2014.5e.tools/items.html#warhammer_phb)|  
+|1   |6  |S4   |[shield](https://2014.5e.tools/items.html#shield_phb)|  
+|1   |1  |S5   |[tinder box](https://2014.5e.tools/items.html#tinderbox_phb)|  
+|10  |2  |S6-7 |[day's worth of rations](https://2014.5e.tools/items.html#rations%20(1%20day)_phb)|  
+|1   |5  |S8   |[waterskin](https://2014.5e.tools/items.html#waterskin_phb)|  
+|1   |2  |S9   |[handaxe](https://2014.5e.tools/items.html#handaxe_phb)|
 
-\*worn  
-  
 ## features  
 ### background features (guild artisan)  
 - [guild membership](https://2014.5e.tools/backgrounds.html#guild%20artisan_phb)  
