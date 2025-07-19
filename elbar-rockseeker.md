@@ -94,11 +94,11 @@
 ## inventory  
 |#   |lb |slots|item|  
 |----|---|-----|----|  
-|1   |4  |N/A  |[traveler's clothes](https://2014.5e.tools/items.html#traveler's%20clothes_phb)|
+|1   |4  |4    |[traveler's clothes](https://2014.5e.tools/items.html#traveler's%20clothes_phb)|
 |0.5 |1  |1    |[50 gold coins](https://2014.5e.tools/items.html#gold%20(gp)_phb)|  
 |1   |2  |2    |[warhammer](https://2014.5e.tools/items.html#warhammer_phb)|  
 |1   |6  |3    |[shield](https://2014.5e.tools/items.html#shield_phb)|  
-|1   |55 |4,5,6|[chain mail armor](https://2014.5e.tools/items.html#chain%20mail_phb)|  
+|1   |55 |N/A  |[chain mail armor](https://2014.5e.tools/items.html#chain%20mail_phb)|  
 |1   |1  |N/A  |[amulet - holy symbol - Moradin](https://2014.5e.tools/items.html#amulet_phb)|  
 |1   |5  |N/A  |[backpack](https://2014.5e.tools/items.html#backpack_phb)|  
 |1   |7  |N/A  |[bedroll](https://2014.5e.tools/items.html#bedroll_phb)|  
