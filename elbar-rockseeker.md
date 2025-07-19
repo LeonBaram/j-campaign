@@ -55,7 +55,7 @@
 [+cha](#stats) [+prof](#prof)  
   
 **passive perception**: 12  
-[+wis](#stats) [+prof](#prof)  
+[+wis](#stats)
 
 ## other proficiencies  
 - [smith's tools](https://2014.5e.tools/items.html#smith's%20tools_phb)
