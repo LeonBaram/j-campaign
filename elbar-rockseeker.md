@@ -22,8 +22,8 @@
 
 **speed**: 25  
 
-**hp**: 1 / 13  
-**temp hp**: 4  
+**hp**: 9 / 13  
+**temp hp**: 0  
 [increase to con mod ~ hp += $LVL](#stats)
 
 **hit dice**: 0d10 / 1d10  
