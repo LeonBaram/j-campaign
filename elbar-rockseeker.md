@@ -95,6 +95,8 @@
 |1   |10 |WEAR |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
 |1   |4  |S1   |[traveler's clothes](https://2014.5e.tools/items.html#traveler's%20clothes_phb)|
 |0.5 |1  |S2   |[50 gold coins](https://2014.5e.tools/items.html#gold%20(gp)_phb)|  
+|3   |1  |S2   |[50 silver coins](https://2014.5e.tools/items.html#silver%20(sp)_phb)|  
+|0.5 |1  |S2   |[50 copper coins](https://2014.5e.tools/items.html#copper%20(cp)_phb)|  
 |1   |2  |S3   |[warhammer](https://2014.5e.tools/items.html#warhammer_phb)|  
 |1   |6  |S4   |[shield](https://2014.5e.tools/items.html#shield_phb)|  
 |1   |1  |S5   |[tinder box](https://2014.5e.tools/items.html#tinderbox_phb)|  
