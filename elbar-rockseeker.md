@@ -1,34 +1,36 @@
 # Elbar Rockseeker
-**class/level**: Paladin 1, (probably Oath of Devotion)  
+**class/level**: Paladin 2, (probably Oath of Devotion)  
 **race**: Mountain Dwarf  
 **background**: Guild Artisan  
 **age**: 69  
 **gender**: male  
 **alignment**: Lawful Good
 
-**inspiration**: yes
+**inspiration**: no
 
 ###### prof
 **proficiency bonus**: +2  
 
 ## combat
 
-**attack**: +6 (warhammer) (+str) [#stats]
+**attack**: (warhammer) (dmg bonus from duelist)
+- to hit: +6 (+str) [#stats]
+- damage: 1d8+6 (+str) [#stats]
 
-**armor class**: 16 (chain mail)
+**armor class**: 18 (chain mail + shield)
   
 **initiatve**: +1  
 [+dex](#stats)  
 
 **speed**: 25  
 
-**hp**: 9 / 13  
+**hp**: 19 / 19  
 **temp hp**: 0  
 [increase to con mod ~ hp += $LVL](#stats)
 
-**hit dice**: 0d10 / 1d10  
+**hit dice**: 2d10 / 2d10  
 
-**death saves**: 1 pass; 0 fail  
+**death saves**: 0 pass; 0 fail  
 
 ## stats  
 |stat|score|save|mod|  
@@ -59,6 +61,24 @@
 **passive perception**: 12  
 [+wis](#stats)
 
+**total prepared spells:** 4 (cha +($LVL * 0.5)) [#stats]
+
+## spell slots  
+|lvl|max|slots|  
+|---|---|-----|  
+|1  |2  |2    |  
+
+**spell attack**: +5 (+cha +prof) [#stats] [#prof]  
+**spell save dc**: 13 (+cha +prof) [#stats] [#prof]  
+
+### spells prepared  
+#### lvl1
+
+- cure wounds
+- bless
+- command
+- compelled duel
+
 ## other proficiencies  
 - [smith's tools](https://2014.5e.tools/items.html#smith's%20tools_phb)
 - [mason's tools](https://2014.5e.tools/items.html#mason's%20tools_phb)
@@ -76,7 +96,7 @@
 - Dwarven
 - Giant
 
-**money**: 25gp  
+**money**: 25gp / 25sp / 150cp  
 **total weight**: 100.5 lb  
 
 **max weight**: 285 lb
@@ -95,8 +115,8 @@
 |1   |10 |WEAR |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
 |1   |4  |S1   |[traveler's clothes](https://2014.5e.tools/items.html#traveler's%20clothes_phb)|
 |0.5 |1  |S2   |[50 gold coins](https://2014.5e.tools/items.html#gold%20(gp)_phb)|  
-|3   |1  |S2   |[50 silver coins](https://2014.5e.tools/items.html#silver%20(sp)_phb)|  
-|0.5 |1  |S2   |[50 copper coins](https://2014.5e.tools/items.html#copper%20(cp)_phb)|  
+|0.5 |1  |S2   |[50 silver coins](https://2014.5e.tools/items.html#silver%20(sp)_phb)|  
+|3   |1  |S2   |[50 copper coins](https://2014.5e.tools/items.html#copper%20(cp)_phb)|  
 |1   |2  |S3   |[warhammer](https://2014.5e.tools/items.html#warhammer_phb)|  
 |1   |6  |S4   |[shield](https://2014.5e.tools/items.html#shield_phb)|  
 |1   |1  |S5   |[tinder box](https://2014.5e.tools/items.html#tinderbox_phb)|  
@@ -115,7 +135,10 @@
 - [divine sense](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-0)
     - uses: 4 / 4 (1+cha [#stats])
 - [lay on hands](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-1)
-    - hp pool: 2 / 5 (5 x LVL)
+    - hp pool: 10 / 10 (5 x LVL)
+- [divine smite](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-0)
+- [fighting style: dueling](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-1)
+- [spellcasting](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-2)
 
 ## Characteristics
 
