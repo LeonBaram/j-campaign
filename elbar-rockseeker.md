@@ -96,7 +96,8 @@
 - Dwarven
 - Giant
 
-**money**: 25gp / 25sp / 150cp  
+**money**: 11gp / 7sp / 0cp  
+(deposited in bank: 35gp)  
 **total weight**: 100.5 lb  
 
 **max weight**: 285 lb
@@ -106,23 +107,22 @@
 **slot limit**: 22 (3 + STRENGTH)
 
 ## inventory  
-|#   |lb |slots|item|  
-|----|---|-----|----|  
-|1   |55 |WEAR |[chain mail armor](https://2014.5e.tools/items.html#chain%20mail_phb)|  
-|1   |1  |WEAR |[amulet - holy symbol - Moradin](https://2014.5e.tools/items.html#amulet_phb)|  
-|1   |5  |WEAR |[backpack](https://2014.5e.tools/items.html#backpack_phb)|  
-|1   |7  |WEAR |[bedroll](https://2014.5e.tools/items.html#bedroll_phb)|  
-|1   |10 |WEAR |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
-|1   |4  |S1   |[traveler's clothes](https://2014.5e.tools/items.html#traveler's%20clothes_phb)|
-|0.5 |1  |S2   |[50 gold coins](https://2014.5e.tools/items.html#gold%20(gp)_phb)|  
-|0.5 |1  |S2   |[50 silver coins](https://2014.5e.tools/items.html#silver%20(sp)_phb)|  
-|3   |1  |S2   |[50 copper coins](https://2014.5e.tools/items.html#copper%20(cp)_phb)|  
-|1   |2  |S3   |[warhammer](https://2014.5e.tools/items.html#warhammer_phb)|  
-|1   |6  |S4   |[shield](https://2014.5e.tools/items.html#shield_phb)|  
-|1   |1  |S5   |[tinder box](https://2014.5e.tools/items.html#tinderbox_phb)|  
-|10  |2  |S6-7 |[day's worth of rations](https://2014.5e.tools/items.html#rations%20(1%20day)_phb)|  
-|1   |5  |S8   |[waterskin](https://2014.5e.tools/items.html#waterskin_phb)|  
-|1   |2  |S9   |[handaxe](https://2014.5e.tools/items.html#handaxe_phb)|
+|#   |lb  |slots|item|  
+|----|--- |-----|----|  
+|1   |55  |WEAR |[chain mail armor](https://2014.5e.tools/items.html#chain%20mail_phb)|  
+|1   |1   |WEAR |[amulet - holy symbol - Moradin](https://2014.5e.tools/items.html#amulet_phb)|  
+|1   |5   |WEAR |[backpack](https://2014.5e.tools/items.html#backpack_phb)|  
+|1   |7   |WEAR |[bedroll](https://2014.5e.tools/items.html#bedroll_phb)|  
+|1   |10  |WEAR |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
+|1   |4   |S1   |[traveler's clothes](https://2014.5e.tools/items.html#traveler's%20clothes_phb)|
+|18  |0.02|S2   |coins|
+|1   |2   |S3   |[warhammer](https://2014.5e.tools/items.html#warhammer_phb)|  
+|1   |6   |S4   |[shield](https://2014.5e.tools/items.html#shield_phb)|  
+|1   |1   |S5   |[tinder box](https://2014.5e.tools/items.html#tinderbox_phb)|  
+|10  |2   |S6-7 |[1-day rations](https://2014.5e.tools/items.html#rations%20(1%20day)_phb)|  
+|1   |5   |S8   |[waterskin](https://2014.5e.tools/items.html#waterskin_phb)|  
+|1   |2   |S9   |[handaxe](https://2014.5e.tools/items.html#handaxe_phb)|
+|1   |3   |S10  |[net](https://2014.5e.tools/items.html#net_phb)|
 
 ## features  
 ### background features (guild artisan)  
