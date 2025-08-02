@@ -118,7 +118,7 @@
 |0.5 |1  |S2   |[50 silver coins](https://2014.5e.tools/items.html#silver%20(sp)_phb)|  
 |3   |1  |S2   |[50 copper coins](https://2014.5e.tools/items.html#copper%20(cp)_phb)|  
 |1   |2  |S3   |[warhammer](https://2014.5e.tools/items.html#warhammer_phb)|  
-|1   |6  |S4   |[shield](https://2014.5e.tools/items.html#shield_phb)|  
+|1   |6  |WEAR |[shield](https://2014.5e.tools/items.html#shield_phb)|  
 |1   |1  |S5   |[tinder box](https://2014.5e.tools/items.html#tinderbox_phb)|  
 |10  |2  |S6-7 |[day's worth of rations](https://2014.5e.tools/items.html#rations%20(1%20day)_phb)|  
 |1   |5  |S8   |[waterskin](https://2014.5e.tools/items.html#waterskin_phb)|  
