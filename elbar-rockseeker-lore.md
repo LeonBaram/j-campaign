@@ -1,43 +1,3 @@
-# Elbar Rockseeker
-**class/level**: Paladin 1 (will probably be Oath of Devotion)  
-**race**: Mountain Dwarf  
-**background**: Guild Artisan  
-**age**: 100  
-**gender**: male  
-**alignment**: Lawful Good  
-
-## stats
-
-- STR: 17 (+2 = 19)
-- CHA: 17
-- CON: 15 (+2 = 17)
-- WIS: 14
-- DEX: 12
-- INT: 5
-    - reads slowly
-    - generally ignorant about world lore, except basic Dwarf-specific stuff his parents would have taught him
-    - uneducated except for stuff directly relating to his upbringing and/or profession and/or direct lived experience in Neverwinter
-    - generally doesn't understand a lot of "nerd" type shit e.g. anything related to Arcana
-    - still a competent and effective businessman due to +2 in WIS
-
-## combat
-
-**armor class**: 16 (chain mail)
-
-**hit points**: 12 / 12
-
-**hit dice**: 1d10 / 1d10
-
-**initiative**: +1
-
-## skills
-
-**proficiency bonus**: +2
-
-**gold**: 25
-
-## inventory
-
 ## background
 - guild artisan
 - together with his sister Hilda, owns a smithy + weapons shop in Neverwinter called "R&R Arms & Armor"
@@ -45,7 +5,7 @@
 
 ## why he's on the caravan
 - Elbar and Hilda are part of the same clan as Gundren Rockseeker
-- R&R A&A has a potential trade partner in Phandalin who is apparently willing to source some (mithril / adamantine / some other rare AF metal). Elbar is traveling to Phaldalin to meet them personally, establish a proper business relationship, inspect their wares, seal the deal, and personally accompany the shipment (because the metals are CRAZY valuable)
+- R&R A&A has a potential trade partner in Phandalin (Halia) who is apparently willing to source some adamantine. Elbar is traveling to Phaldalin to meet them personally, establish a proper business relationship, inspect their wares, seal the deal, and personally accompany the shipment (because the metals are CRAZY valuable)
 
 ## why he's a paladin
 - extremely strong sense of justice and right & wrong
