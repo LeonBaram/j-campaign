@@ -24,7 +24,7 @@
 
 **speed**: 25  
 
-**hp**: 19 / 19  
+**hp**: 13 / 19  
 **temp hp**: 0  
 [increase to con mod ~ hp += $LVL](#stats)
 
