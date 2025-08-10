@@ -24,11 +24,11 @@
 
 **speed**: 25  
 
-**hp**: 13 / 19  
+**hp**: 17 / 19  
 **temp hp**: 0  
 [increase to con mod ~ hp += $LVL](#stats)
 
-**hit dice**: 2d10 / 2d10  
+**hit dice**: 0d10 / 2d10  
 
 **death saves**: 0 pass; 0 fail  
 
@@ -66,7 +66,7 @@
 ## spell slots  
 |lvl|max|slots|  
 |---|---|-----|  
-|1  |2  |2    |  
+|1  |2  |1    |  
 
 **spell attack**: +5 (+cha +prof) [#stats] [#prof]  
 **spell save dc**: 13 (+cha +prof) [#stats] [#prof]  
@@ -99,6 +99,7 @@
 **money**: 11gp / 7sp / 0cp  
 (deposited in bank: 35gp)  
 **total weight**: 100.5 lb  
+(note: pay 10gp/month to guild for adamantine debt repayment)  
 
 **max weight**: 285 lb
 
@@ -123,6 +124,7 @@
 |1   |5   |S8   |[waterskin](https://2014.5e.tools/items.html#waterskin_phb)|  
 |1   |2   |S9   |[handaxe](https://2014.5e.tools/items.html#handaxe_phb)|
 |1   |3   |S10  |[net](https://2014.5e.tools/items.html#net_phb)|
+|1   |0   |WEAR |redbrand cloak|
 
 ## features  
 ### background features (guild artisan)  
@@ -135,7 +137,7 @@
 - [divine sense](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-0)
     - uses: 4 / 4 (1+cha [#stats])
 - [lay on hands](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-1)
-    - hp pool: 10 / 10 (5 x LVL)
+    - hp pool: 3 / 10 (5 x LVL)
 - [divine smite](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-0)
 - [fighting style: dueling](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-1)
 - [spellcasting](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-2)
