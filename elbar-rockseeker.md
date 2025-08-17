@@ -24,7 +24,7 @@
 
 **speed**: 25  
 
-**hp**: 17 / 19  
+**hp**: 9 / 19  
 **temp hp**: 0  
 [increase to con mod ~ hp += $LVL](#stats)
 
@@ -135,7 +135,7 @@
 - [stonecunning](https://2014.5e.tools/races.html#dwarf%20(mountain)_phb)
 ### class features (paladin)  
 - [divine sense](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-0)
-    - uses: 4 / 4 (1+cha [#stats])
+    - uses: 2 / 4 (1+cha [#stats])
 - [lay on hands](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-1)
     - hp pool: 3 / 10 (5 x LVL)
 - [divine smite](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-0)
