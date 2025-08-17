@@ -18,3 +18,5 @@
     - worth +100gp if retrieved
 
 - "goblins" are actually kobolds in disguise, serving a green dragon
+
+- specifically a *young* green dragon
