@@ -8,12 +8,19 @@
 
 **inspiration**: no
 
+**conditions:**
+- immune to disease
+
 ###### prof
 **proficiency bonus**: +2  
 
 ## combat
 
-**attack**: (warhammer) (dmg bonus from duelist)
+**attack**: (+1 longsword) (dmg bonus from duelist)
+- to hit: +7 (+str+1) [#stats]
+- damage: 1d8+7 (+str+1) [#stats]
+
+**attack (old)**: (warhammer) (dmg bonus from duelist)
 - to hit: +6 (+str) [#stats]
 - damage: 1d8+6 (+str) [#stats]
 
@@ -24,11 +31,11 @@
 
 **speed**: 25  
 
-**hp**: 9 / 19  
+**hp**: 31 / 31  
 **temp hp**: 0  
 [increase to con mod ~ hp += $LVL](#stats)
 
-**hit dice**: 0d10 / 2d10  
+**hit dice**: 3d10 / 3d10  
 
 **death saves**: 0 pass; 0 fail  
 
@@ -61,12 +68,16 @@
 **passive perception**: 12  
 [+wis](#stats)
 
+**channel divinity:** 1/1
+- abjure enemy
+- vow of enmity
+
 **total prepared spells:** 4 (cha +($LVL * 0.5)) [#stats]
 
 ## spell slots  
 |lvl|max|slots|  
 |---|---|-----|  
-|1  |2  |1    |  
+|1  |3  |3    |  
 
 **spell attack**: +5 (+cha +prof) [#stats] [#prof]  
 **spell save dc**: 13 (+cha +prof) [#stats] [#prof]  
@@ -78,6 +89,8 @@
 - bless
 - command
 - compelled duel
+- bane (always prepared)
+- hunter's mark (always prepared)
 
 ## other proficiencies  
 - [smith's tools](https://2014.5e.tools/items.html#smith's%20tools_phb)
@@ -96,35 +109,37 @@
 - Dwarven
 - Giant
 
-**money**: 11gp / 7sp / 0cp  
-(deposited in bank: 35gp)  
+**money**: 20gp / 9sp / 0cp  
+(deposited in bank: 115gp)  
 **total weight**: 100.5 lb  
 (note: pay 10gp/month to guild for adamantine debt repayment)  
 
 **max weight**: 285 lb
-
-(Note: holy shit, even with my starting inventory my character will have a speed of 15ft. wtf??)
 
 **slot limit**: 22 (3 + STRENGTH)
 
 ## inventory  
 |#   |lb  |slots|item|  
 |----|--- |-----|----|  
-|1   |55  |WEAR |[chain mail armor](https://2014.5e.tools/items.html#chain%20mail_phb)|  
-|1   |1   |WEAR |[amulet - holy symbol - Moradin](https://2014.5e.tools/items.html#amulet_phb)|  
-|1   |5   |WEAR |[backpack](https://2014.5e.tools/items.html#backpack_phb)|  
-|1   |7   |WEAR |[bedroll](https://2014.5e.tools/items.html#bedroll_phb)|  
-|1   |10  |WEAR |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
-|1   |4   |S1   |[traveler's clothes](https://2014.5e.tools/items.html#traveler's%20clothes_phb)|
-|18  |0.02|S2   |coins|
-|1   |2   |S3   |[warhammer](https://2014.5e.tools/items.html#warhammer_phb)|  
-|1   |6   |S4   |[shield](https://2014.5e.tools/items.html#shield_phb)|  
-|1   |1   |S5   |[tinder box](https://2014.5e.tools/items.html#tinderbox_phb)|  
-|10  |2   |S6-7 |[1-day rations](https://2014.5e.tools/items.html#rations%20(1%20day)_phb)|  
-|1   |5   |S8   |[waterskin](https://2014.5e.tools/items.html#waterskin_phb)|  
-|1   |2   |S9   |[handaxe](https://2014.5e.tools/items.html#handaxe_phb)|
-|1   |3   |S10  |[net](https://2014.5e.tools/items.html#net_phb)|
-|1   |0   |WEAR |redbrand cloak|
+|1   |55  |WEAR  |[chain mail armor](https://2014.5e.tools/items.html#chain%20mail_phb)|  
+|1   |1   |WEAR  |[amulet - holy symbol - Moradin](https://2014.5e.tools/items.html#amulet_phb)|  
+|1   |5   |WEAR  |[backpack](https://2014.5e.tools/items.html#backpack_phb)|  
+|1   |7   |WEAR  |[bedroll](https://2014.5e.tools/items.html#bedroll_phb)|  
+|1   |10  |WEAR  |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
+|1   |4   |S1    |[traveler's clothes](https://2014.5e.tools/items.html#traveler's%20clothes_phb)|
+|18  |0.02|S2    |coins|
+|1   |2   |S3    |[warhammer](https://2014.5e.tools/items.html#warhammer_phb)|  
+|1   |6   |S4    |[shield](https://2014.5e.tools/items.html#shield_phb)|  
+|1   |1   |S5    |[tinder box](https://2014.5e.tools/items.html#tinderbox_phb)|  
+|10  |2   |S6-7  |[1-day rations](https://2014.5e.tools/items.html#rations%20(1%20day)_phb)|  
+|1   |5   |S8    |[waterskin](https://2014.5e.tools/items.html#waterskin_phb)|  
+|1   |2   |S9    |[handaxe](https://2014.5e.tools/items.html#handaxe_phb)|
+|1   |3   |S10   |[net](https://2014.5e.tools/items.html#net_phb)|
+|1   |0   |WEAR  |redbrand cloak|
+|1   |3   |S11-12|+1 longsword|
+
+#### +1 longsword
+The sword is inscribed with the name "Talon", and its hilt is worked in the shape of a bird of prey with outspread wings. It once belonged to a great knight named Aldith Tresendar, known as the Black Hawk.
 
 ## features  
 ### background features (guild artisan)  
