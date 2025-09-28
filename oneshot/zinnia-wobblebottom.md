@@ -17,7 +17,7 @@
   
 **speed**: 30  
   
-**hp**: 28 / 45  
+**hp**: 45 / 45  
 **temp hp**: 0  
 [increase to con mod ~ hp += $LVL](#stats)  
   
@@ -72,7 +72,7 @@
 - Common
 - Elvish
 
-**money**: 0gp
+**money**: 36gp
 **total weight**: 37.6 lb  
 
 ### encumbrance thresholds
@@ -96,8 +96,8 @@
 |1  |10 |[50 ft. hemp rope](https://2014.5e.tools/items.html#hempen%20rope%20(50%20feet)_phb)|  
 |1  |0  |[boots of speed  ](https://2014.5e.tools/items.html#boots%20of%20speed_dmg)|
 |1  |0.1|warding bond ring|
-|1  |0.5|[potion of poison resistance](https://2014.5e.tools/items.html#potion%20of%20poison%20resistance_dmg)|
-|1  |0.5|potion of greater healing|
+|1  |0.5|healing potion|
+|1  |0.5|greater healing potion|
   
 \*druidic focus  
   
@@ -106,14 +106,14 @@
   
 ## resources  
 - **luck points**: 3 / 3  
-- **wildshape**: 0 / 2
+- **wildshape**: 2 / 2
   
 ## spell slots  
 |lvl|max|slots|  
 |---|---|-----|  
 |1  |4  |3    |  
-|2  |3  |1    |  
-|3  |2  |1    |  
+|2  |3  |3    |  
+|3  |2  |2    |  
   
 **spell attack**: +6 [+wis](#stats) [+prof](#prof)  
 **spell save dc**: 14 [+wis](#stats) [+prof](#prof)  
