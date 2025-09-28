@@ -1,0 +1,181 @@
+name: Elbar Rockseeker
+
+class: Paladin
+level: 3
+
+race: Mountain Dwarf
+background: Guild Artisan
+age: 69
+gender: male
+alignment: Lawful Good
+
+conditions:
+  - darkvision 60ft
+  - immune to disease
+  - resistance against poison damage
+  - advantage on saving throws against poison
+
+inspiration: false
+
+prof: 2
+
+scores:
+  strength: 19
+  dexterity: 12
+  constitution: 18
+  intelligence: 5
+  wisdom: 14
+  charisma: 17
+
+## saves
+str_save: 4 #= str
+dex_save: 1 #= dex
+con_save: 4 #= con
+int_save: -3 #= int
+wis_save: 4 #= wis + prof
+cha_save: 5 #= cha + prof
+
+## stats
+str: 4 #= (scores.strength-10)//2
+dex: 1 #= (scores.dexterity-10)//2
+con: 4 #= (scores.constitution-10)//2
+int: -3 #= (scores.intelligence-10)//2
+wis: 2 #= (scores.wisdom-10)//2
+cha: 3 #= (scores.charisma-10)//2
+
+## hit points
+hp: 9 / 31 #= counter(_, None, longrest)
+temp_hp: 0
+hit_dice: 3d10 / 3d10 #= counter(_, f"{level}d10", longrest)
+death_saves:
+  successes: 0
+  failures: 1
+
+## combat
+speed: 25
+initiative: 1 #= dex
+armor_class: 18
+
+## resources
+divine_sense: 4 / 4 #= counter(_, 1+cha, longrest)
+lay_on_hands: 15 / 15 #= counter(_, 5*level, longrest)
+channel_divinity: 1 / 1 #= counter(_, None, longrest)
+
+skills:
+  athletics: 6 #= str+prof
+  insight: 4 #= wis+prof
+  persuasion: 5 #= cha+prof
+  intimidation: 5 #= cha+prof
+
+passive_perception: 12 #= wis+10
+
+spells:
+  attack: 5 #= cha+prof
+  save_dc: 13 #= 8+cha+prof
+  prepared_total: 4 #= cha + (level//2)
+  slots_lvl1: 1 / 3 #= counter(_, 3, longrest)
+  lvl1:
+    - cure wounds
+    - bless
+    - command
+    - compelled duel
+    - bane (always prepared)
+    - hunter's mark (always prepared)
+
+other_proficiencies:
+  - smith's/mason's tools
+  - light/medium/heavy armor
+  - shields
+  - simple/martial weapons
+
+languages:
+  - common
+  - dwarven
+  - giant
+
+money:
+  gp: 20
+  sp: 9
+  cp: 0
+
+inventory:
+  - 55lb chain mail armor
+  - 1lb holy symbol - amulet
+  - 5lb backpack
+  - 7lb bedroll
+  - 10lb 50ft rope
+  - 4lb traveler's clothes
+  - 29x 0.02lb coins
+  - 2lb warhammer
+  - 3lb +1 longsword ("Talon"). once belonged to Aldith Tresendar, a.k.a the Black Hawk.
+  - 6lb shield
+  - 1lb tinderbox
+  - 10x 2lb 1-day rations
+  - 5lb waterskin
+  - 2lb handaxe
+  - 3lb net
+  - redbrand cloak
+
+inv_total_weight: 124.58lb #= f"{sum(map(weight, inventory))}lb"
+inv_max_weight: 285lb #= f"{scores.strength * 15}lb"
+
+features:
+  ## paladin features
+  divine_sense:
+    link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-0~sub_vengeance_phb=b1
+    summary: |
+      as an action, until end of next turn, you know the location of any celestial/fiend/undead within 60 feet that is not behind total cover. for any being you sense, you know their type but not their identity. within the same radius you also detect any place/object that has been consecrated/desecrated, as with the spell Hallow.
+  lay_on_hands:
+    link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-1~sub_vengeance_phb=b1
+    summary: total healing pool of 5*lvl hp. as an action, can touch a creature and give them hp from the pool. can spend 5hp to heal 1 disease/poison. no effect on undead/constructs.
+  divine_smite:
+    link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-0~sub_vengeance_phb=b1
+    summary: when you hit with an attack, can spend 1 level-n spell slot to deal (1+n)d8 bonus radiant damage
+  fighting_style:
+    link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-1~sub_vengeance_phb=b1
+    summary: +2 to damage rolls when wielding exactly 1 weapon in 1 hand
+  spellcasting:
+    link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-2~sub_vengeance_phb=b1
+  divine_health:
+    link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s2-0~sub_vengeance_phb=b1
+    summary: immune to disease
+  channel_divinity_abjure_enemy:
+    link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s2-1~sub_vengeance_phb=b1
+    summary: |
+      as an action, one creature within 60ft makes a WIS save. unaffected if immune to frighten. disadvantage if fiend/undead. on a fail, frightened for 1 minute or until damage. while frightened, speed is 0 regardless of bonuses. on a success, speed is halved for 1 minute or until damage.
+  channel_divinity_vow_of_enmity:
+    link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s2-1~sub_vengeance_phb=b1
+    summary: |
+      as a bonus action, gain advantage on attacks against one creature within 10ft for 1 minute or until 0hp or unconscious.
+  ## mountain dwarf features
+  stonecunning:
+    summary: expertise in History checks about the origin of stonework
+  ## guild artisan features
+  guild_membership:
+    link: https://2014.5e.tools/backgrounds.html#guild%20artisan_phb
+    summary: |
+      As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
+      Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers.
+      You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces.
+
+personality_traits: |
+  - loves a good drink
+  - loves a good scrap (for fun, with the homies)
+  - bit of a gruff / stoic demeanor, but actually pretty generous and considerate with his friends
+
+ideals: |
+  - Generosity. My talents were given to me so that I could use them to benefit the world. (Good)
+
+bonds: |
+  - loves his sister Hilda, but they frequently bicker
+  - may have met uncle Gundren at 1-2 social family gatherings??
+  - R&R A&A is his and Hilda's baby
+  - absolutely hates criminals and evildoers (almost 0 nuance)
+
+flaws: |
+  - sometimes a *little* racist in that way where you can tell he had a traditional Dwarven upbringing, but isn't actually trying to be mean or racially supremacist (basically the racism that comes from a place of ignorance, rather than the KKK shit)
+  - somewhat judgy of others' cultures
+  - almost always speaks his mind, except when in "business savvy" mode
+
+shortrest: false
+longrest: false
