@@ -54,7 +54,19 @@ death_saves:
 ## combat
 speed: 25
 initiative: 1 #= dex
-armor_class: 18
+## 16 from chain mail, +2 from shield
+armor_class: 18 #= 16+2
+
+## +2 damage from duelist fighting style
+attacks:
+  talon:
+    desc: +1 longsword
+    atk: 7 #= str+prof+1
+    dmg: 9 #= str+prof+1+2
+  warhammer:
+    desc: warhammer
+    atk: 6 #= str+prof
+    dmg: 8 #= str+prof+2
 
 ## resources
 divine_sense: 4 / 4 #= counter(_, 1+cha, longrest)
