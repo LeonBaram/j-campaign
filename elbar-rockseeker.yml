@@ -44,9 +44,9 @@ wis: 2 #= (scores.wisdom-10)//2
 cha: 3 #= (scores.charisma-10)//2
 
 ## hit points
-hp: 9 / 31 #= counter(_, None, longrest)
+hp: 31 / 31 #= counter(_, None, longrest)
 temp_hp: 0
-hit_dice: 3d10 / 3d10 #= counter(_, f"{level}d10", longrest)
+hit_dice: 1d10 / 3d10 #= counter(_, f"{level}d10")
 death_saves:
   successes: 0
   failures: 1
