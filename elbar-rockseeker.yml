@@ -22,21 +22,20 @@ inspiration: false
 
 prof: 2
 
-scores:
-  strength: 19
-  dexterity: 12
-  constitution: 18
-  intelligence: 5
-  wisdom: 14
-  charisma: 17
+strength: 19
+dexterity: 12
+constitution: 18
+intelligence: 5
+wisdom: 14
+charisma: 17
 
 ## stats
-str: 4 #= (scores.strength-10)//2
-dex: 1 #= (scores.dexterity-10)//2
-con: 4 #= (scores.constitution-10)//2
-int: -3 #= (scores.intelligence-10)//2
-wis: 2 #= (scores.wisdom-10)//2
-cha: 3 #= (scores.charisma-10)//2
+str: 4 #= mod(strength)
+dex: 1 #= mod(dexterity)
+con: 4 #= mod(constitution)
+int: -3 #= mod(intelligence)
+wis: 2 #= mod(wisdom)
+cha: 3 #= mod(charisma)
 
 ## saves
 str_save: 4 #= str
@@ -132,7 +131,7 @@ inventory:
   - redbrand cloak
 
 inv_total_weight: 125.66lb #= f"{sum(map(weight, inventory))}lb"
-inv_max_weight: 285lb #= f"{scores.strength * 15}lb"
+inv_max_weight: 285lb #= f"{strength * 15}lb"
 
 features:
   ## paladin features

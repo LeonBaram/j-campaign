@@ -1,6 +1,10 @@
 import re
 
 
+def mod(score: int) -> int:
+    return (score - 10)//2
+
+
 def counter(curr, max=None, reset=None):
     curr = curr if curr else "0 / 0"
     reset = reset if reset else []
