@@ -112,6 +112,9 @@ money:
   sp: 9
   cp: 0
 
+bank_account:
+  gp: 115
+
 inventory:
   - 55lb chain mail armor
   - 1lb holy symbol - amulet
