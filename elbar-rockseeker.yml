@@ -1,3 +1,6 @@
+shortrest: false
+longrest: false
+
 name: Elbar Rockseeker
 
 class: Oath of Vengeance Paladin
@@ -9,7 +12,7 @@ age: 69
 gender: male
 alignment: Lawful Good
 
-conditions:
+conditions: |
   - darkvision 60ft
   - immune to disease
   - resistance against poison damage
@@ -27,14 +30,6 @@ scores:
   wisdom: 14
   charisma: 17
 
-## saves
-str_save: 4 #= str
-dex_save: 1 #= dex
-con_save: 4 #= con
-int_save: -3 #= int
-wis_save: 4 #= wis + prof
-cha_save: 5 #= cha + prof
-
 ## stats
 str: 4 #= (scores.strength-10)//2
 dex: 1 #= (scores.dexterity-10)//2
@@ -42,6 +37,14 @@ con: 4 #= (scores.constitution-10)//2
 int: -3 #= (scores.intelligence-10)//2
 wis: 2 #= (scores.wisdom-10)//2
 cha: 3 #= (scores.charisma-10)//2
+
+## saves
+str_save: 4 #= str
+dex_save: 1 #= dex
+con_save: 4 #= con
+int_save: -3 #= int
+wis_save: 4 #= wis + prof
+cha_save: 5 #= cha + prof
 
 ## hit points
 hp: 31 / 31 #= counter(_, None, longrest)
@@ -191,6 +194,3 @@ flaws: |
 
 notes: |
   - montly guild payment is 10gp instead of default due to adamantine shipment
-
-shortrest: false
-longrest: false
