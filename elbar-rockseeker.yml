@@ -120,7 +120,7 @@ inventory:
   - 7lb bedroll
   - 10lb 50ft rope
   - 4lb traveler's clothes
-  - 29x 0.02lb coins
+  - 83x 0.02lb coins #= f"{sum(money.values())}x 0.02lb coins"
   - 2lb warhammer
   - 3lb +1 longsword ("Talon"). once belonged to Aldith Tresendar, a.k.a the Black Hawk.
   - 6lb shield
@@ -131,7 +131,7 @@ inventory:
   - 3lb net
   - redbrand cloak
 
-inv_total_weight: 124.58lb #= f"{sum(map(weight, inventory))}lb"
+inv_total_weight: 125.66lb #= f"{sum(map(weight, inventory))}lb"
 inv_max_weight: 285lb #= f"{scores.strength * 15}lb"
 
 features:
