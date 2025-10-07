@@ -87,7 +87,7 @@ spells:
   attack: 5 #= cha+prof
   save_dc: 13 #= 8+cha+prof
   prepared_total: 4 #= cha + (level//2)
-  slots_lvl1: 1 / 3 #= counter(_, max=3, reset=longrest)
+  slots_lvl1: 3 / 3 #= counter(_, max=3, reset=longrest)
   lvl1:
     - cure wounds
     - bless
