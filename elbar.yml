@@ -12,7 +12,7 @@ age: 69
 gender: male
 alignment: Lawful Good
 
-conditions: |
+conditions: |-
   - darkvision 60ft
   - immune to disease
   - resistance against poison damage
@@ -81,11 +81,12 @@ skills:
 
 passive_perception: 12 #= wis+10
 
+spell_slots:
+  lvl1: 3 / 3 #= counter(_, max=3, reset=longrest)
 spells:
   attack: 5 #= cha+prof
   save_dc: 13 #= 8+cha+prof
   prepared_total: 4 #= cha + (level//2)
-  slots_lvl1: 3 / 3 #= counter(_, max=3, reset=longrest)
   lvl1:
     - cure wounds
     - bless
@@ -136,37 +137,37 @@ inv_max_weight: 285lb #= f"{strength * 15}lb"
 
 features:
   ## paladin features
-  divine_sense:
+  - name: divine_sense
     link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-0~sub_vengeance_phb=b1
     summary: |
       as an action, until end of next turn, you know the location of any celestial/fiend/undead within 60 feet that is not behind total cover. for any being you sense, you know their type but not their identity. within the same radius you also detect any place/object that has been consecrated/desecrated, as with the spell Hallow.
-  lay_on_hands:
+  - name: lay_on_hands
     link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-1~sub_vengeance_phb=b1
     summary: total healing pool of 5*lvl hp. as an action, can touch a creature and give them hp from the pool. can spend 5hp to heal 1 disease/poison. no effect on undead/constructs.
-  divine_smite:
+  - name: divine_smite
     link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-0~sub_vengeance_phb=b1
     summary: when you hit with an attack, can spend 1 level-n spell slot to deal (1+n)d8 bonus radiant damage
-  fighting_style:
+  - name: fighting_style
     link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-1~sub_vengeance_phb=b1
     summary: +2 to damage rolls when wielding exactly 1 weapon in 1 hand
-  spellcasting:
+  - name: spellcasting
     link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-2~sub_vengeance_phb=b1
-  divine_health:
+  - name: divine_health
     link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s2-0~sub_vengeance_phb=b1
     summary: immune to disease
-  channel_divinity_abjure_enemy:
+  - name: channel_divinity_abjure_enemy
     link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s2-1~sub_vengeance_phb=b1
     summary: |
       as an action, one creature within 60ft makes a WIS save. unaffected if immune to frighten. disadvantage if fiend/undead. on a fail, frightened for 1 minute or until damage. while frightened, speed is 0 regardless of bonuses. on a success, speed is halved for 1 minute or until damage.
-  channel_divinity_vow_of_enmity:
+  - name: channel_divinity_vow_of_enmity
     link: https://2014.5e.tools/classes.html#paladin_phb,state:feature=s2-1~sub_vengeance_phb=b1
     summary: |
       as a bonus action, gain advantage on attacks against one creature within 10ft for 1 minute or until 0hp or unconscious.
   ## mountain dwarf features
-  stonecunning:
+  - name: stonecunning
     summary: expertise in History checks about the origin of stonework
   ## guild artisan features
-  guild_membership:
+  - name: guild_membership
     link: https://2014.5e.tools/backgrounds.html#guild%20artisan_phb
     summary: |
       As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
