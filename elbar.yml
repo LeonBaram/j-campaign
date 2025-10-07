@@ -61,14 +61,12 @@ armor_class: 18 #= 16+2
 
 ## +2 damage from duelist fighting style
 attacks:
-  talon:
-    desc: +1 longsword
+  - name: talon (+1 longsword)
     atk: 7 #= str+prof+1
-    dmg: 9 #= str+prof+1+2
-  warhammer:
-    desc: warhammer
+    dmg: 1d8+7 slashing (versatile) #= f"1d8+{str+1+2} slashing (versatile)"
+  - name: warhammer
     atk: 6 #= str+prof
-    dmg: 8 #= str+prof+2
+    dmg: 1d8+6 bludgeoning (versatile) #= f"1d8+{str+2} bludgeoning (versatile)"
 
 ## resources
 divine_sense: 4 / 4 #= counter(_, max=1+cha, reset=longrest)
