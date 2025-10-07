@@ -97,13 +97,13 @@ spells:
     - bane (always prepared)
     - hunter's mark (always prepared)
 
-other_proficiencies:
+other_proficiencies: |
   - smith's/mason's tools
   - light/medium/heavy armor
   - shields
   - simple/martial weapons
 
-languages:
+languages: |
   - common
   - dwarven
   - giant
