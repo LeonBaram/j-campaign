@@ -12,7 +12,8 @@ def counter(curr, max=None, *reset):
 def weight(item):
     pattern = r'(\d+x )?([\d.]+lb )?.+'
     match = re.fullmatch(pattern, item)
-    assert bool(match)
+    if not match:
+        return 0
     q, w = match.groups()
     q = q if q else "1"
     w = w if w else "0"
