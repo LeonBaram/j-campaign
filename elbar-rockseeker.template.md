@@ -16,12 +16,12 @@
 ## stats
 |stat|score|save|mod|
 |---|---|---|---|
-|STR|{{strength}}|{{str_save}}|{{str}}|
-|DEX|{{dexterity}}|{{dex_save}}|{{dex}}|
-|CON|{{constitution}}|{{con_save}}|{{con}}|
-|INT|{{intelligence}}|{{int_save}}|{{int}}|
-|WIS|{{wisdom}}|{{wis_save}}*|{{wis}}|
-|CHA|{{charisma}}|{{cha_save}}*|{{cha}}|
+|STR|{{str_score}}|{{str_save}}|{{str}}|
+|DEX|{{dex_score}}|{{dex_save}}|{{dex}}|
+|CON|{{con_score}}|{{con_save}}|{{con}}|
+|INT|{{int_score}}|{{int_save}}|{{int}}|
+|WIS|{{wis_score}}|{{wis_save}}*|{{wis}}|
+|CHA|{{cha_score}}|{{cha_save}}*|{{cha}}|
 
 \*proficient save
 
