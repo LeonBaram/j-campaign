@@ -47,9 +47,9 @@ wis_save: 4 #= wis + prof
 cha_save: 5 #= cha + prof
 
 ## hit points
-hp: 31 / 31 #= counter(_, None, longrest)
+hp: 31 / 31 #= counter(_, reset=longrest)
 temp_hp: 0
-hit_dice: 1d10 / 3d10 #= counter(_, f"{level}d10")
+hit_dice: 1d10 / 3d10 #= counter(_, max=f"{level}d10")
 death_saves:
   successes: 0
   failures: 1
@@ -72,9 +72,9 @@ attacks:
     dmg: 8 #= str+prof+2
 
 ## resources
-divine_sense: 4 / 4 #= counter(_, 1+cha, longrest)
-lay_on_hands: 15 / 15 #= counter(_, 5*level, longrest)
-channel_divinity: 1 / 1 #= counter(_, None, longrest)
+divine_sense: 4 / 4 #= counter(_, max=1+cha, reset=longrest)
+lay_on_hands: 15 / 15 #= counter(_, max=5*level, reset=longrest)
+channel_divinity: 1 / 1 #= counter(_, reset=longrest)
 
 skills:
   athletics: 6 #= str+prof
@@ -88,7 +88,7 @@ spells:
   attack: 5 #= cha+prof
   save_dc: 13 #= 8+cha+prof
   prepared_total: 4 #= cha + (level//2)
-  slots_lvl1: 1 / 3 #= counter(_, 3, longrest)
+  slots_lvl1: 1 / 3 #= counter(_, max=3, reset=longrest)
   lvl1:
     - cure wounds
     - bless

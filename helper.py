@@ -1,11 +1,14 @@
 import re
 
 
-def counter(curr, max=None, *reset):
+def counter(curr, max=None, reset=None):
     curr = curr if curr else "0 / 0"
-    a, b = [x.strip() for x in curr.split('/')]
-    max = max if max else b
-    val = max if any(reset) else a
+    reset = reset if reset else []
+    if not isinstance(reset, list):
+        reset = [reset]
+    current_val, current_max = [x.strip() for x in curr.split('/')]
+    max = max if max else current_max
+    val = max if any(reset) else current_val
     return f'{val} / {max}'
 
 
