@@ -47,17 +47,6 @@ Guild Artisan; 'Lawful Good'`:alignment`\
 **lay on hands:** 15 / 15\
 **channel divinity:** 1 / 1
 
-## Skills
-
-| skill        | bonus             |
-| ------------ | ----------------- |
-| athletics    | '+6'`:+=str+prof` |
-| insight      | '+4'`:+=wis+prof` |
-| persuasion   | '+5'`:+=cha+prof` |
-| intimidation | '+5'`:+=cha+prof` |
-
-**passive perception**: 12
-
 ## Spell Slots
 
 ''`:=reset(longrest)`
@@ -81,6 +70,17 @@ Guild Artisan; 'Lawful Good'`:alignment`\
 - compelled duel
 - bane (always prepared)
 - hunter's mark (always prepared)
+
+## Skills
+
+| skill        | bonus             |
+| ------------ | ----------------- |
+| athletics    | '+6'`:+=str+prof` |
+| insight      | '+4'`:+=wis+prof` |
+| persuasion   | '+5'`:+=cha+prof` |
+| intimidation | '+5'`:+=cha+prof` |
+
+**passive perception**: 12
 
 ## Other Proficiencies
 
