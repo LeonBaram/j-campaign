@@ -58,8 +58,6 @@ Guild Artisan; 'Lawful Good'`:alignment`\
 
 **passive perception**: 12
 
-**total prepared spells:**
-
 ## Spell Slots
 
 ''`:=reset(longrest)`
@@ -72,6 +70,8 @@ Guild Artisan; 'Lawful Good'`:alignment`\
 **spell save dc**: '13'`:=8+cha+prof`
 
 ## Spells Prepared
+
+**total prepared spells:** '4'`:=cha+(lvl//2)`
 
 **lvl1**
 
