@@ -47,29 +47,27 @@ proficiency bonus: '+2'`:+prof`
 **lay on hands:** 15 / 15\
 **channel divinity:** 1 / 1
 
-## Spell Slots
+## Spells
 
 ''`:=reset(longrest)`
 
-| lvl | slots |
-| --- | ----- |
-| 1   | 3 / 3 |
+| lvl1 spell slots |
+| ---------------- |
+| 3 / 3            |
 
-**spell attack**: '+5'`:+=cha+prof`
-**spell save dc**: '13'`:=8+cha+prof`
-
-## Spells Prepared
-
+**spell attack**: '+5'`:+=cha+prof`\
+**spell save dc**: '13'`:=8+cha+prof`\
 **total prepared spells:** '4'`:=cha+(lvl//2)`
 
-**lvl1**
+**prepared spells:**
 
-- cure wounds
-- bless
-- command
-- compelled duel
-- bane (always prepared)
-- hunter's mark (always prepared)
+- lvl1:
+    - cure wounds
+    - bless
+    - command
+    - compelled duel
+    - bane (always prepared)
+    - hunter's mark (always prepared)
 
 ## Skills
 
