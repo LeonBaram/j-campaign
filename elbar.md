@@ -11,7 +11,7 @@ Guild Artisan; 'Lawful Good'`:alignment`\
 - resistance against poison damage
 - advantage on saving throws against poison
 
-'+2'`:+prof`
+proficiency bonus: '+2'`:+prof`
 
 ## Stats
 
