@@ -29,10 +29,8 @@ Guild Artisan; 'Lawful Good'`:alignment`\
 ## Combat
 
 ''`:=reset(longrest)`\
-**hp**: 11 / 31\
+**hp**: 31 / 31\
 **hit dice**: 3d10 / '3d10'`:=fmt(lvl,'d10')`
-
-temp hp: 1
 
 **armor class**: '18'`:=16+2`\
 **initiatve**: '+1'`:+=dex`\
@@ -102,7 +100,7 @@ temp hp: 1
 **deposited in bank:** 115gp / sp / cp
 
 **max weight (lb):** '285'`:=STR*15`\
-**current weight (lb):** '126'`:=total_weight()`
+**current weight (lb):** '138'`:=total_weight()`
 
 ## Inventory
 
@@ -118,7 +116,7 @@ inventory = [[
     3lb     +1 longsword ("Talon"). once belonged to Aldith Tresendar, a.k.a the Black Hawk.
     6lb     shield
     1lb     tinderbox
-10x 2lb     1-day rations
+16x 2lb     1-day rations
     5lb     waterskin
     2lb     handaxe
     3lb     net
