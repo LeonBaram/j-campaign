@@ -93,9 +93,9 @@ proficiency bonus: '+2'`:+prof`
 - dwarven
 - giant
 
-**money:** 74gp / 9sp / 0cp
+**money:** 74gp / 4sp / 0cp
 
-**deposited in bank:** 115gp / sp / cp
+**deposited in bank:** 180gp / sp / cp
 
 **max weight (lb):** '285'`:=STR*15`\
 **current weight (lb):** '138'`:=total_weight()`
@@ -119,6 +119,7 @@ inventory = [[
     2lb     handaxe
     3lb     net
             redbrand cloak
+            diamond (5k gp)
 ]]
 ```
 
