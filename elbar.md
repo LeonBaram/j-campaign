@@ -1,8 +1,8 @@
 # Elbar Rockseeker
 
-Oath of Vengeance Paladin '3'`:lvl`\
+Paladin (_Oath of Vengeance_); level '3'`:lvl`\
 Guild Artisan; 'Lawful Good'`:alignment`\
-69-year-old male Dwarf (Mountain Dwarf)
+69-year-old male Dwarf (_Mountain Dwarf_)
 
 ## Conditions:
 
