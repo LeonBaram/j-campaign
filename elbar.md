@@ -43,7 +43,7 @@ Guild Artisan; 'Lawful Good'`:alignment`\
 - **handaxe:** '+6'`:+=str+prof` to hit, damage: 1d6'+6'`:+=str+2` slashing (thrown)
 
 ''`:=reset(longrest)`\
-**divine sense:** 3 / '4'`:=cha+1`\
+**divine sense:** 4 / '4'`:=cha+1`\
 **lay on hands:** 15 / 15\
 **channel divinity:** 1 / 1
 
@@ -53,7 +53,7 @@ Guild Artisan; 'Lawful Good'`:alignment`\
 
 | lvl | slots |
 | --- | ----- |
-| 1   | 2 / 3 |
+| 1   | 3 / 3 |
 
 **spell attack**: '+5'`:+=cha+prof`
 **spell save dc**: '13'`:=8+cha+prof`
