@@ -161,7 +161,7 @@ inventory = [[
 
 **stonecunning**
 
-> expertise in History checks about the origin of stonework [link]()
+> expertise in History checks about the origin of stonework [link](<https://2014.5e.tools/races.html#dwarf%20(mountain)_phb>)
 
 **guild membership**
 
