@@ -126,20 +126,20 @@ inventory = [[
 
 **divine sense**
 
-as an action, until end of next turn, you know the location of any celestial/fiend/undead within 60 feet that is not behind total cover. for any being you sense, you know their type but not their identity. within the same radius you also detect any place/object that has been consecrated/desecrated, as with the spell Hallow.
-[link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-0~sub_vengeance_phb=b1)
+> as an action, until end of next turn, you know the location of any celestial/fiend/undead within 60 feet that is not behind total cover. for any being you sense, you know their type but not their identity. within the same radius you also detect any place/object that has been consecrated/desecrated, as with the spell Hallow.
+> [link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-0~sub_vengeance_phb=b1)
 
 **lay on hands**
 
-total healing pool of 5\*lvl hp. as an action, can touch a creature and give them hp from the pool. can spend 5hp to heal 1 disease/poison. no effect on undead/constructs. [link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-1~sub_vengeance_phb=b1)
+> total healing pool of 5\*lvl hp. as an action, can touch a creature and give them hp from the pool. can spend 5hp to heal 1 disease/poison. no effect on undead/constructs. [link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s0-1~sub_vengeance_phb=b1)
 
 **divine smite**
 
-when you hit with an attack, can spend 1 level-n spell slot to deal (1+n)d8 bonus radiant damage [link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-0~sub_vengeance_phb=b1)
+> when you hit with an attack, can spend 1 level-n spell slot to deal (1+n)d8 bonus radiant damage [link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-0~sub_vengeance_phb=b1)
 
 **fighting style**
 
-\+2 to damage rolls when wielding exactly 1 weapon in 1 hand [link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-1~sub_vengeance_phb=b1)
+> \+2 to damage rolls when wielding exactly 1 weapon in 1 hand [link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s1-1~sub_vengeance_phb=b1)
 
 **spellcasting**
 
@@ -147,28 +147,28 @@ when you hit with an attack, can spend 1 level-n spell slot to deal (1+n)d8 bonu
 
 **divine health**
 
-immune to disease [link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s2-0~sub_vengeance_phb=b1)
+> immune to disease [link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s2-0~sub_vengeance_phb=b1)
 
 **channel divinity: abjure enemy**
 
-as an action, one creature within 60ft makes a WIS save. unaffected if immune to frighten. disadvantage if fiend/undead. on a fail, frightened for 1 minute or until damage. while frightened, speed is 0 regardless of bonuses. on a success, speed is halved for 1 minute or until damage.
-[link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s2-1~sub_vengeance_phb=b1)
+> as an action, one creature within 60ft makes a WIS save. unaffected if immune to frighten. disadvantage if fiend/undead. on a fail, frightened for 1 minute or until damage. while frightened, speed is 0 regardless of bonuses. on a success, speed is halved for 1 minute or until damage.
+> [link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s2-1~sub_vengeance_phb=b1)
 
 **channel divinity: vow of enmity**
 
-as a bonus action, gain advantage on attacks against one creature within 10ft for 1 minute or until 0hp or unconscious.
-[link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s2-1~sub_vengeance_phb=b1)
+> as a bonus action, gain advantage on attacks against one creature within 10ft for 1 minute or until 0hp or unconscious.
+> [link](https://2014.5e.tools/classes.html#paladin_phb,state:feature=s2-1~sub_vengeance_phb=b1)
 
 **stonecunning**
 
-expertise in History checks about the origin of stonework [link]()
+> expertise in History checks about the origin of stonework [link]()
 
 **guild membership**
 
-As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
-Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers.
-You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces.
-[link](https://2014.5e.tools/backgrounds.html#guild%20artisan_phb)
+> As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
+> Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers.
+> You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces.
+> [link](https://2014.5e.tools/backgrounds.html#guild%20artisan_phb)
 
 ## Characteristics
 
