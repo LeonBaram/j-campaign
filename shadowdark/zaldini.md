@@ -38,10 +38,10 @@ slots (max '10'`:=max(STR,10)`):
 2. .
 3. rope, 60' / 60'
 4. mirror
-5. .
+5. magic wand of Detect Thoughts
 6. rations (3)
 7. broken jade hair comb (60gp)
-8. .
+8. jade and gold scarab pin (20gp)
 9. Staff of the Cobra
 10. torch
 
