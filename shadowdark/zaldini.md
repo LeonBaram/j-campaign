@@ -52,7 +52,7 @@ free carry:
 slots (max '10'`:=max(STR,10)`):
 
 1. pole
-2. pokeball potion: Seraph Archangel
+2. pokeball potion: Domini Archangel
 3. rope, 60' / 60'
 4. pokeball potion: Djinni
 5. magic wand of Detect Thoughts
