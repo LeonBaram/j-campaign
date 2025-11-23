@@ -33,6 +33,15 @@ LUCK TOKEN: 1
 On each of its turns it makes a WIS check vs my last spellcasting check. when it succeeds the spell ends,\
 and it knows you were reading its mind.
 
+### Spell Roll Outcomes
+
+| outcome | spellcasting check                       | focus check                   |
+| ------- | ---------------------------------------- | ----------------------------- |
+| nat 20  | x2 one numerical effect                  | keep focusing                 |
+| success | cast spell normally                      | keep focusing                 |
+| fail    | spell fails, gone for today              | spell is done. can recast     |
+| nat 1   | spell fails, gone for today. roll mishap | spell is done. gone for today |
+
 ## Gear
 
 free carry:
