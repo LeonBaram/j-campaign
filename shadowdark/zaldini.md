@@ -70,6 +70,8 @@ _A curved scepter tipped with a ruby-eyed, flaring cobra head._
 
 **Curse**. You have disadvantage on attacks and casting hostile spells targeting snakes.
 
+## Utility Functions
+
 ```lua calcmd
 function max(x, y)
     if x >= y then
