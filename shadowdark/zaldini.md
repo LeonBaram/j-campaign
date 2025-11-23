@@ -64,7 +64,7 @@ slots (max '10'`:=max(STR,10)`):
 5. magic wand of Detect Thoughts
 6. rations (3)
 7. pole
-8. torch
+8. potion of forgor 💀
 9. Staff of the Cobra
 10. torch
 
