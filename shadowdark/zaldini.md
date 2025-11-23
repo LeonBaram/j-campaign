@@ -9,7 +9,7 @@
 | '8'`:STR` / -1 | 15 / '+2'`:dex` | 11 / +0 | 19 / '+4'`:int` | 9 / -1  | 12 / +1 |
 
 **Keen Senses:** Can't be surprised\
-**HP:** 4 / 8; **AC:** 12; **Attacks:** dagger, '2'`:=dex` (N), 1d4\
+**HP:** 8 / 8; **AC:** 12; **Attacks:** dagger, '2'`:=dex` (N), 1d4\
 **Talents:** '+1' `:talent` to spellcasting checks\
 **Spellcasting:** '+5' `:+=int+talent`
 
