@@ -38,8 +38,8 @@ slots (max '10'`:=max(STR,10)`):
 4. mirror
 5. .
 6. rations (3)
-7. torch
-8. torch
+7. .
+8. .
 9. Staff of the Cobra
 10. torch
 
