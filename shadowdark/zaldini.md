@@ -2,16 +2,18 @@
 
 **Ancestry:** Goblin; **Background:** Wanted; **Alignment:** Chaotic; **Deity:** Shune the Vile\
 **Languages:** Common, Goblin, Orcish, Thanian, Diabolic, Draconic\
-**Class:** Wizard; **Title:** Channeler; **Level:** 3; **XP:** 13 / 30
+**Class:** Wizard; **Title:** Channeler; **Level:** 4; **XP:** 0 / 40
 
-LUCK TOKEN: 1
+TODO:
+
+- pick Tier 2 spell
 
 | **str**        | **dex**         | **con** | **int**         | **wis** | **cha** |
 | -------------- | --------------- | ------- | --------------- | ------- | ------- |
 | '8'`:STR` / -1 | 15 / '+2'`:dex` | 11 / +0 | 19 / '+4'`:int` | 9 / -1  | 12 / +1 |
 
 **Keen Senses:** Can't be surprised\
-**HP:** 8 / 8; **AC:** 12; **Attacks:** dagger, '2'`:=dex` (N), 1d4\
+**HP:** 9 / 9; **AC:** 12; **Attacks:** dagger, '2'`:=dex` (N), 1d4\
 **Talents:** '+1' `:talent` to spellcasting checks\
 **Spellcasting:** '+5' `:+=int+talent`
 
@@ -24,6 +26,8 @@ LUCK TOKEN: 1
 | 1        | Sleep          | Instant      | Near      | LV 0-2 creatures in a Near-sized cube sleep until shaken/hurt.                               |
 | 1        | Burning Hands  | Instant      | Close     | creatures within Close range around me take 1d6 damage. unattended flammable objects ignite. |
 | 2        | Fixed Object   | 5 rounds     | Close     | touch an object \<= 5lb. it is completely unmovable for the duration (up to 5000lb of force) |
+| 2        | Invisibility   | 10 rounds    | Close     | touch 1 creature. it becomes invisible. ends early if creature attacks or casts a spell      |
+| 3        | Fireball       | Instant      | Far       | creatures in a Near-sized cube around a point (within Far range) take 4d6 damage             |
 
 (Note: Close=5ft, Near=30ft, Far=line of sight)
 
@@ -51,7 +55,7 @@ free carry:
 
 slots (max '10'`:=max(STR,10)`):
 
-1. .
+1. pokeball potion (empty)
 2. pokeball potion: Domini angel
 3. mirror
 4. pokeball potion: Djinni
