@@ -90,4 +90,14 @@ function max(x, y)
         return y
     end
 end
+
+-- print "RESET" if any of the given reset conditions are true
+function reset(...)
+    for _, condition in ipairs(table.pack(...)) do
+        if condition then
+            return "RESET"
+        end
+    end
+    return ""
+end
 ```
