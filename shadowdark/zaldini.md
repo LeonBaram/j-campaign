@@ -52,9 +52,9 @@ free carry:
 slots (max '10'`:=max(STR,10)`):
 
 1. pole
-2. deactivated magic lamp
+2. pokeball potion: Seraph Archangel
 3. rope, 60' / 60'
-4. magic scrying ball
+4. pokeball potion: Djinni
 5. magic wand of Detect Thoughts
 6. rations (3)
 7. broken jade hair comb (60gp)
