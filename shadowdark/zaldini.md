@@ -2,7 +2,7 @@
 
 **Ancestry:** Goblin; **Background:** Wanted; **Alignment:** Chaotic; **Deity:** Shune the Vile\
 **Languages:** Common, Goblin, Orcish, Thanian, Diabolic, Draconic\
-**Class:** Wizard; **Title:** Channeler; **Level:** 3; **XP:** 9 / 30
+**Class:** Wizard; **Title:** Channeler; **Level:** 3; **XP:** 13 / 30
 
 | **str**        | **dex**         | **con** | **int**         | **wis** | **cha** |
 | -------------- | --------------- | ------- | --------------- | ------- | ------- |
@@ -28,24 +28,24 @@
 free carry:
 
 - backpack
-- **money:** 100gp
+- **money:** 23.5gp
 
 slots (max '10'`:=max(STR,10)`):
 
 1. pole
-2. glass bottle
+2. .
 3. rope, 60' / 60'
 4. mirror
-5. scroll of Hold Portal
-6. rations (2)
-7. crowbar
-8. 10gp
+5. .
+6. rations (3)
+7. torch
+8. torch
 9. Staff of the Cobra
-10. 240gp
+10. torch
 
 ## Allies
 
-- 2 famous bard allies (TBD??)
+- 3 famous bard allies (TBD??)
 - snake wizard ally ("Gorgoroth")
 
 ## Magic Items
