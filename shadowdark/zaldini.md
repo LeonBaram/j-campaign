@@ -41,7 +41,7 @@ slots (max '10'`:=max(STR,10)`):
 5. .
 6. rations (3)
 7. broken jade hair comb (60gp)
-8. potion of healing
+8. .
 9. Staff of the Cobra
 10. torch
 
