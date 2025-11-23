@@ -82,6 +82,7 @@ _A curved scepter tipped with a ruby-eyed, flaring cobra head._
 ## Utility Functions
 
 ```lua calcmd
+-- take the max of 2 numbers
 function max(x, y)
     if x >= y then
         return x
