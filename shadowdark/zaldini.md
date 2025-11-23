@@ -23,6 +23,8 @@
 | 1        | Burning Hands | Instant      | Close     | creatures within Close range around me take 1d6 damage. unattended flammable objects ignite. |
 | 2        | Fixed Object  | 5 rounds     | Close     | touch an object \<= 5lb. it is completely unmovable for the duration (up to 5000lb of force) |
 
+(Note: Close=5ft, Near=30ft, Far=line of sight)
+
 ## Gear
 
 free carry:
