@@ -53,7 +53,7 @@ and it knows you were reading its mind.
 free carry:
 
 - backpack
-- **money:** 17.1gp
+- **money:** 15gp
 
 slots (max '10'`:=max(STR,10)`):
 
@@ -63,8 +63,8 @@ slots (max '10'`:=max(STR,10)`):
 4. pokeball potion: Djinni
 5. magic wand of Detect Thoughts
 6. rations (3)
-7. .
-8. .
+7. pole
+8. torch
 9. Staff of the Cobra
 10. torch
 
