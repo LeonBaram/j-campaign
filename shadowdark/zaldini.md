@@ -51,7 +51,7 @@ free carry:
 
 slots (max '10'`:=max(STR,10)`):
 
-1. pole
+1. .
 2. pokeball potion: Domini angel
 3. mirror
 4. pokeball potion: Djinni
