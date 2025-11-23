@@ -15,13 +15,13 @@
 
 ## Spells
 
-| **Tier** | **Name**      | **Duration** | **Range**                       | **Description**                                                                              |
-| -------- | ------------- | ------------ | ------------------------------- | -------------------------------------------------------------------------------------------- |
-| 1        | Magic Missile | Instant      | Far                             | ADV to cast, 1d4 dmg to 1 creature within range.                                             |
-| 1        | Detect Magic  | Focus        | Near (blocked by full barriers) | sense magic within range, hold for 2+ rounds for more info.                                  |
-| 1        | Sleep         | Instant      | Near                            | LV 0-2 creatures in a range-sized cube sleep until shaken/hurt.                              |
-| 1        | Burning Hands | Instant      | Close                           | creatures within range around me take 1d6 damage. unattended flammable objects ignite.       |
-| 2        | Fixed Object  | 5 rounds     | Close                           | touch an object \<= 5lb. it is completely unmovable for the duration (up to 5000lb of force) |
+| **Tier** | **Name**      | **Duration** | **Range** | **Description**                                                                              |
+| -------- | ------------- | ------------ | --------- | -------------------------------------------------------------------------------------------- |
+| 1        | Magic Missile | Instant      | Far       | ADV to cast, 1d4 dmg to 1 creature within range.                                             |
+| 1        | Detect Magic  | Focus        | Near      | sense magic within range, hold for 2+ rounds for more info.(blocked by full barriers)        |
+| 1        | Sleep         | Instant      | Near      | LV 0-2 creatures in a range-sized cube sleep until shaken/hurt.                              |
+| 1        | Burning Hands | Instant      | Close     | creatures within range around me take 1d6 damage. unattended flammable objects ignite.       |
+| 2        | Fixed Object  | 5 rounds     | Close     | touch an object \<= 5lb. it is completely unmovable for the duration (up to 5000lb of force) |
 
 ## Gear
 
