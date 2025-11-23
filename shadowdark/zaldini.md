@@ -2,7 +2,9 @@
 
 **Ancestry:** Goblin; **Background:** Wanted; **Alignment:** Chaotic; **Deity:** Shune the Vile\
 **Languages:** Common, Goblin, Orcish, Thanian, Diabolic, Draconic\
-**Class:** Wizard; **Title:** Channeler; **Level:** 4; **XP:** 0 / 40
+**Class:** Wizard; **Title:** Channeler; **Level:** 4; **XP:** 3 / 40
+
+LUCK TOKEN: 1
 
 TODO:
 
@@ -51,7 +53,7 @@ and it knows you were reading its mind.
 free carry:
 
 - backpack
-- **money:** 23.6gp
+- **money:** 17.1gp
 
 slots (max '10'`:=max(STR,10)`):
 
