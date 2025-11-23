@@ -4,6 +4,8 @@
 **Languages:** Common, Goblin, Orcish, Thanian, Diabolic, Draconic\
 **Class:** Wizard; **Title:** Channeler; **Level:** 3; **XP:** 13 / 30
 
+LUCK TOKEN: 1
+
 | **str**        | **dex**         | **con** | **int**         | **wis** | **cha** |
 | -------------- | --------------- | ------- | --------------- | ------- | ------- |
 | '8'`:STR` / -1 | 15 / '+2'`:dex` | 11 / +0 | 19 / '+4'`:int` | 9 / -1  | 12 / +1 |
