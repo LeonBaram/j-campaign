@@ -63,8 +63,8 @@ slots (max '10'`:=max(STR,10)`):
 4. pokeball potion: Djinni
 5. magic wand of Detect Thoughts
 6. rations (3)
-7. broken jade hair comb (60gp)
-8. jade and gold scarab pin (20gp)
+7. .
+8. .
 9. Staff of the Cobra
 10. torch
 
