@@ -42,7 +42,7 @@ proficiency bonus: '+2'`:+prof`
 ## Combat
 
 ''`:=reset(longrest)`\
-**hp**: 31 / 31\
+**hp**: 13 / 31\
 **hit dice**: 3d10 / '3d10'`:=fmt(lvl,'d10')`
 
 **armor class**: '18'`:=16+2`\
@@ -57,7 +57,7 @@ proficiency bonus: '+2'`:+prof`
 
 ''`:=reset(longrest)`\
 **divine sense:** 4 / '4'`:=cha+1`\
-**lay on hands:** 15 / 15\
+**lay on hands:** 5 / 15\
 **channel divinity:** 1 / 1
 
 ## Spells
