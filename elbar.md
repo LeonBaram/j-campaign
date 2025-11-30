@@ -28,6 +28,17 @@ proficiency bonus: '+2'`:+prof`
 
 \*proficient save
 
+## Skills
+
+| skill        | bonus             |
+| ------------ | ----------------- |
+| athletics    | '+6'`:+=str+prof` |
+| insight      | '+4'`:+=wis+prof` |
+| persuasion   | '+5'`:+=cha+prof` |
+| intimidation | '+5'`:+=cha+prof` |
+
+**passive perception**: 12
+
 ## Combat
 
 ''`:=reset(longrest)`\
@@ -70,17 +81,6 @@ proficiency bonus: '+2'`:+prof`
     - compelled duel
     - bane (always prepared)
     - hunter's mark (always prepared)
-
-## Skills
-
-| skill        | bonus             |
-| ------------ | ----------------- |
-| athletics    | '+6'`:+=str+prof` |
-| insight      | '+4'`:+=wis+prof` |
-| persuasion   | '+5'`:+=cha+prof` |
-| intimidation | '+5'`:+=cha+prof` |
-
-**passive perception**: 12
 
 ## Other Proficiencies
 
