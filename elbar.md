@@ -1,7 +1,5 @@
 # Elbar Rockseeker
 
-INSPIRATION: YES
-
 Paladin (_Oath of Vengeance_); level '3'`:lvl`\
 Guild Artisan; 'Lawful Good'`:alignment`\
 69-year-old male Dwarf (_Mountain Dwarf_)
