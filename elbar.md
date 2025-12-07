@@ -1,6 +1,6 @@
 # Elbar Rockseeker
 
-Paladin (_Oath of Vengeance_); level '3'`:lvl`\
+Paladin (_Oath of Vengeance_); level '4'`:lvl`\
 Guild Artisan; 'Lawful Good'`:alignment`\
 69-year-old male Dwarf (_Mountain Dwarf_)
 
@@ -17,12 +17,12 @@ proficiency bonus: '+2'`:+prof`
 
 | stat  | score      | mod         | save              |
 | ----- | ---------- | ----------- | ----------------- |
-| STR   | '19'`:STR` | '+4'`:+str` | '+4'`:+=str`      |
+| STR   | '20'`:STR` | '+5'`:+str` | '+5'`:+=str`      |
 | DEX   | '12'`:DEX` | '+1'`:+dex` | '+1'`:+=dex`      |
 | CON   | '18'`:CON` | '+4'`:+con` | '+4'`:+=con`      |
 | INT   | '5' `:INT` | '-3'`:int`  | '-3'`:=int`       |
 | WIS\* | '14'`:WIS` | '+2'`:+wis` | '+4'`:+=wis+prof` |
-| CHA\* | '17'`:CHA` | '+3'`:+cha` | '+5'`:+=cha+prof` |
+| CHA\* | '18'`:CHA` | '+4'`:+cha` | '+6'`:+=cha+prof` |
 
 \*proficient save
 
@@ -30,18 +30,18 @@ proficiency bonus: '+2'`:+prof`
 
 | skill        | bonus             |
 | ------------ | ----------------- |
-| athletics    | '+6'`:+=str+prof` |
+| athletics    | '+7'`:+=str+prof` |
 | insight      | '+4'`:+=wis+prof` |
-| persuasion   | '+5'`:+=cha+prof` |
-| intimidation | '+5'`:+=cha+prof` |
+| persuasion   | '+6'`:+=cha+prof` |
+| intimidation | '+6'`:+=cha+prof` |
 
 **passive perception**: 12
 
 ## Combat
 
 ''`:=reset(longrest)`\
-**hp:** 19 / 31\
-**hit dice:** 3d10 / '3d10'`:=fmt(lvl,'d10')`
+**hp:** 41 / 41\
+**hit dice:** 4d10 / '4d10'`:=fmt(lvl,'d10')`
 
 **armor class**: '18'`:=16+2`\
 **initiatve**: '+1'`:+=dex`\
@@ -49,16 +49,16 @@ proficiency bonus: '+2'`:+prof`
 
 **attacks:**
 
-- **talon (+1 longsword):** '+7'`:+=str+prof+1` to hit, damage: 1d8'+7'`:+=str+1+2` slashing (versatile)
-- **warhammer:** '+6'`:+=str+prof` to hit, damage: 1d8'+6'`:+=str+2` bludgeoning (versatile)
-- **handaxe:** '+6'`:+=str+prof` to hit, damage: 1d6'+6'`:+=str+2` slashing (thrown)
+- **talon (+1 longsword):** '+8'`:+=str+prof+1` to hit, damage: 1d8'+8'`:+=str+1+2` slashing (versatile)
+- **warhammer:** '+7'`:+=str+prof` to hit, damage: 1d8'+7'`:+=str+2` bludgeoning (versatile)
+- **handaxe:** '+7'`:+=str+prof` to hit, damage: 1d6'+7'`:+=str+2` slashing (thrown)
 
 ''`:=reset(longrest)`\
-**divine sense:** 4 / '4'`:=cha+1`\
-**lay on hands:** 0 / 15
+**divine sense:** 5 / '5'`:=cha+1`\
+**lay on hands:** 20 / '20'`:=5*lvl`
 
 ''`:=reset(longrest,shortrest)`
-**channel divinity:** 0 / 1
+**channel divinity:** 1 / 1
 
 ## Spells
 
@@ -66,15 +66,16 @@ proficiency bonus: '+2'`:+prof`
 
 | lvl1 spell slots |
 | ---------------- |
-| 0 / 3            |
+| 3 / 3            |
 
-**spell attack**: '+5'`:+=cha+prof`\
-**spell save dc**: '13'`:=8+cha+prof`\
-**total prepared spells:** '4'`:=cha+(lvl//2)`
+**spell attack**: '+6'`:+=cha+prof`\
+**spell save dc**: '14'`:=8+cha+prof`\
+**total prepared spells:** '6'`:=cha+(lvl//2)`
 
 **prepared spells:**
 
 - lvl1:
+    - detect magic (ritual)
     - cure wounds
     - bless
     - command
@@ -99,7 +100,7 @@ proficiency bonus: '+2'`:+prof`
 
 **deposited in bank:** 180gp / sp / cp
 
-**max weight (lb):** '285'`:=STR*15`\
+**max weight (lb):** '300'`:=STR*15`\
 **current weight (lb):** '138'`:=total_weight()`
 
 ## Inventory
