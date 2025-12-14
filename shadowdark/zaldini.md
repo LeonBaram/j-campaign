@@ -67,6 +67,13 @@ slots (max '10'`:=max(STR,10)`):
 1. pokeball potion: Domini angel
 2. pokeball potion: Djinni
 3. potion of forgor 💀
+4. .
+5. .
+6. .
+7. .
+8. .
+9. .
+10. .
 
 ## Allies
 
