@@ -31,7 +31,7 @@ LUCK TOKEN: 1
 
 ### Wands
 
-**Detect Thoughts** (tier 2, Focus): choose 1 creature in Near range. Each round learn its immediate thoughts.\
+**~Detect Thoughts~** (tier 2, Focus): choose 1 creature in Near range. Each round learn its immediate thoughts.\
 On each of its turns it makes a WIS check vs my last spellcasting check. when it succeeds the spell ends,\
 and it knows you were reading its mind.
 
