@@ -2,7 +2,7 @@
 
 **Ancestry:** Goblin; **Background:** Wanted; **Alignment:** Chaotic; **Deity:** Shune the Vile\
 **Languages:** Common, Goblin, Orcish, Thanian, Diabolic, Draconic\
-**Class:** Wizard; **Title:** Channeler; **Level:** 4; **XP:** 3 / 40
+**Class:** Wizard; **Title:** Channeler; **Level:** 4; **XP:** 4 / 40
 
 LUCK TOKEN: 1
 
