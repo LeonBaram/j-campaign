@@ -60,7 +60,7 @@ slots (max '10'`:=max(STR,10)`):
 5. mirror
 6. rations (3)
 7. torch
-8. 69gp
+8. 100gp
 9. gold cake platter (30gp)
 10. potion of vitality
 
