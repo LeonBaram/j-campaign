@@ -49,7 +49,7 @@ and it knows you were reading its mind.
 free carry:
 
 - backpack
-- **money:** 11.5gp
+- **money:** 100gp
 
 slots (max '10'`:=max(STR,10)`):
 
