@@ -49,20 +49,26 @@ and it knows you were reading its mind.
 free carry:
 
 - backpack
-- **money:** 15gp
+- **money:** 12gp
 
 slots (max '10'`:=max(STR,10)`):
 
 1. pokeball potion (empty)
-2. pokeball potion: Domini angel
+2. .
 3. mirror
-4. pokeball potion: Djinni
+4. .
 5. magic wand of Detect Thoughts
 6. rations (3)
 7. pole
-8. potion of forgor 💀
+8. .
 9. Staff of the Cobra
 10. torch
+
+### Stored at Smithton Tavern
+
+- pokeball potion: Domini angel
+- pokeball potion: Djinni
+- potion of forgor 💀
 
 ## Allies
 
