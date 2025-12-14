@@ -59,7 +59,7 @@ slots (max '10'`:=max(STR,10)`):
 6. rations (3)
 7. torch
 8. .
-9. gold cake platter (30gp)
+9. .
 10. potion of vitality
 
 ### Stored at Smithton Tavern
