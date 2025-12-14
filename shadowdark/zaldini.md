@@ -49,18 +49,18 @@ and it knows you were reading its mind.
 free carry:
 
 - backpack
-- **money:** 12gp
+- **money:** 11.5gp
 
 slots (max '10'`:=max(STR,10)`):
 
-1. pokeball potion (empty)
+1. pokeball potion (empty) -- for "Bargavera"
 2. magic wand of Detect Thoughts
 3. Staff of the Cobra
 4. pole
 5. mirror
 6. rations (3)
 7. torch
-8. .
+8. torch
 9. .
 10. .
 
