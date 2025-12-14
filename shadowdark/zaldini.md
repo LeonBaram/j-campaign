@@ -47,7 +47,7 @@ and it knows you were reading its mind.
 free carry:
 
 - backpack
-- **money:** 100gp
+- **money:** 11.5gp
 
 slots (max '10'`:=max(STR,10)`):
 
@@ -58,7 +58,7 @@ slots (max '10'`:=max(STR,10)`):
 5. mirror
 6. rations (3)
 7. torch
-8. 100gp
+8. .
 9. gold cake platter (30gp)
 10. potion of vitality
 
