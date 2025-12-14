@@ -54,15 +54,15 @@ free carry:
 slots (max '10'`:=max(STR,10)`):
 
 1. pokeball potion (empty)
-2. .
-3. mirror
-4. .
-5. magic wand of Detect Thoughts
+2. magic wand of Detect Thoughts
+3. Staff of the Cobra
+4. pole
+5. mirror
 6. rations (3)
-7. pole
+7. torch
 8. .
-9. Staff of the Cobra
-10. torch
+9. .
+10. .
 
 ### Stored at Smithton Tavern
 
