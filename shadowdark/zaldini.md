@@ -87,6 +87,10 @@ _A curved scepter tipped with a ruby-eyed, flaring cobra head._
 
 **Curse**. You have disadvantage on attacks and casting hostile spells targeting snakes.
 
+## Notes
+
+I have forgotten the tribe I came from. I still remember the bitterness of being exiled from it.
+
 ## Utility Functions
 
 ```lua calcmd
