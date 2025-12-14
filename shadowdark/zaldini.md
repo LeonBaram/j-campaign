@@ -2,7 +2,7 @@
 
 **Ancestry:** Goblin; **Background:** Wanted; **Alignment:** Chaotic; **Deity:** Shune the Vile\
 **Languages:** Common, Goblin, Orcish, Thanian, Diabolic, Draconic\
-**Class:** Wizard; **Title:** Channeler; **Level:** 4; **XP:** 7 / 40
+**Class:** Wizard; **Title:** Channeler; **Level:** 4; **XP:** 10 / 40
 
 | **str**        | **dex**         | **con** | **int**         | **wis** | **cha** |
 | -------------- | --------------- | ------- | --------------- | ------- | ------- |
@@ -59,14 +59,14 @@ slots (max '10'`:=max(STR,10)`):
 6. rations (3)
 7. torch
 8. .
-9. .
+9. bag of holding
 10. potion of vitality
 
-### Stored at Smithton Tavern
+### Bag of Holding
 
-- pokeball potion: Domini angel
-- pokeball potion: Djinni
-- potion of forgor 💀
+1. pokeball potion: Domini angel
+2. pokeball potion: Djinni
+3. potion of forgor 💀
 
 ## Allies
 
