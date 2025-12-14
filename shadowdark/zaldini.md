@@ -71,7 +71,7 @@ slots (max '10'`:=max(STR,10)`):
 
 ## Magic Items
 
-#### Staff Of The Cobra
+#### Staff Of The Cobra (aka my "Monty Python")
 
 _A curved scepter tipped with a ruby-eyed, flaring cobra head._
 
