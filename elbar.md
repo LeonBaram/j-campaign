@@ -82,6 +82,7 @@ proficiency bonus: '+2'`:+prof`
     - bless
     - command
     - compelled duel
+    - shield of faith
     - bane (always prepared)
     - hunter's mark (always prepared)
 
