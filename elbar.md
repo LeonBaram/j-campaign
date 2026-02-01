@@ -104,7 +104,7 @@ proficiency bonus: '+2'`:+prof`
 **deposited in bank:** 180gp / sp / cp
 
 **max weight (lb):** '300'`:=STR*15`\
-**current weight (lb):** '138'`:=total_weight()`
+**current weight (lb):** '136'`:=total_weight()`
 
 ## Inventory
 
