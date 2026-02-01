@@ -98,7 +98,7 @@ proficiency bonus: '+2'`:+prof`
 - dwarven
 - giant
 
-**money:** 74gp / 3sp / 0cp
+**money:** 59gp / 3sp / 0cp
 
 **deposited in bank:** 180gp / sp / cp
 
@@ -127,6 +127,10 @@ inventory = [[
             diamond (5k gp)
 ]]
 ```
+
+### Vehicles
+
+- cart (rented, 2gp / day, 15gp deposit)
 
 ## Features
 
