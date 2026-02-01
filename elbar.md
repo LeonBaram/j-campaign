@@ -4,6 +4,8 @@ Paladin (_Oath of Vengeance_); level '4'`:lvl`\
 Guild Artisan; 'Lawful Good'`:alignment`\
 69-year-old male Dwarf (_Mountain Dwarf_)
 
+INSPIRATION: YES
+
 ## Conditions:
 
 - darkvision 60ft
@@ -96,7 +98,7 @@ proficiency bonus: '+2'`:+prof`
 - dwarven
 - giant
 
-**money:** 74gp / 4sp / 0cp
+**money:** 74gp / 3sp / 0cp
 
 **deposited in bank:** 180gp / sp / cp
 
