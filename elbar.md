@@ -68,7 +68,7 @@ proficiency bonus: '+2'`:+prof`
 
 | lvl1 spell slots |
 | ---------------- |
-| 2 / 3            |
+| 0 / 3            |
 
 **spell attack**: '+6'`:+=cha+prof`\
 **spell save dc**: '14'`:=8+cha+prof`\
