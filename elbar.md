@@ -43,7 +43,7 @@ proficiency bonus: '+2'`:+prof`
 
 ''`:=reset(longrest)`\
 **hp:** 41 / 41\
-**hit dice:** 4d10 / '4d10'`:=fmt(lvl,'d10')`
+**hit dice:** 3d10 / '4d10'`:=fmt(lvl,'d10')`
 
 **armor class**: '18'`:=16+2`\
 **initiatve**: '+1'`:+=dex`\
