@@ -42,7 +42,7 @@ proficiency bonus: '+2'`:+prof`
 ## Combat
 
 ''`:=reset(longrest)`\
-**hp:** 41 / 41\
+**hp:** 7 / 41\
 **hit dice:** 3d10 / '4d10'`:=fmt(lvl,'d10')`
 
 **armor class**: '18'`:=16+2`\
