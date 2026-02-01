@@ -121,7 +121,7 @@ inventory = [[
     3lb     +1 longsword ("Talon"). once belonged to Aldith Tresendar, a.k.a the Black Hawk.
     6lb     shield
     1lb     tinderbox
-16x 2lb     1-day rations
+15x 2lb     1-day rations
     5lb     waterskin
     2lb     handaxe
     3lb     net
