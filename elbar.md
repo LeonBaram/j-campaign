@@ -60,7 +60,7 @@ proficiency bonus: '+2'`:+prof`
 **lay on hands:** 20 / '20'`:=5*lvl`
 
 ''`:=reset(longrest,shortrest)`
-**channel divinity:** 1 / 1
+**channel divinity:** 0 / 1
 
 ## Spells
 
