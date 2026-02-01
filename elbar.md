@@ -110,7 +110,7 @@ proficiency bonus: '+2'`:+prof`
 
 ```lua calcmd
 inventory = [[
-2x          lesser potion of healing (1d4+1)
+1x          lesser potion of healing (1d4+1)
     55lb    chain mail armor
     1lb     holy symbol - amulet
     5lb     backpack
