@@ -52,8 +52,9 @@ proficiency bonus: '+2'`:+prof`
 **attacks:**
 
 - **talon (+1 longsword):** '+8'`:+=str+prof+1` to hit, damage: 1d8'+8'`:+=str+1+2` slashing (versatile)
-- **warhammer:** '+7'`:+=str+prof` to hit, damage: 1d8'+7'`:+=str+2` bludgeoning (versatile)
 - **handaxe:** '+7'`:+=str+prof` to hit, damage: 1d6'+7'`:+=str+2` slashing (thrown)
+- **lightbringer (+1 mace):** '+8'`:+=str+prof+1` to hit , damage: 1d6'+8'`:+=str+1+2` bludgeoning (versatile)
+    - \+1d6 radiant damage against undead
 
 ''`:=reset(longrest)`\
 **divine sense:** 5 / '5'`:=cha+1`\
@@ -104,7 +105,7 @@ proficiency bonus: '+2'`:+prof`
 **deposited in bank:** 180gp / sp / cp
 
 **max weight (lb):** '300'`:=STR*15`\
-**current weight (lb):** '136'`:=total_weight()`
+**current weight (lb):** '138'`:=total_weight()`
 
 ## Inventory
 
@@ -117,7 +118,7 @@ inventory = [[
     7lb     bedroll
     10lb    50ft rope
     4lb     traveler's clothes
-    2lb     warhammer
+    4lb     +1 mace ("Lightbringer")
     3lb     +1 longsword ("Talon"). once belonged to Aldith Tresendar, a.k.a the Black Hawk.
     6lb     shield
     1lb     tinderbox
