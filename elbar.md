@@ -42,8 +42,8 @@ proficiency bonus: '+2'`:+prof`
 ## Combat
 
 ''`:=reset(longrest)`\
-**hp:** 7 / 41\
-**hit dice:** 3d10 / '4d10'`:=fmt(lvl,'d10')`
+**hp:** 41 / 41\
+**hit dice:** 4d10 / '4d10'`:=fmt(lvl,'d10')`
 
 **armor class**: '18'`:=16+2`\
 **initiatve**: '+1'`:+=dex`\
@@ -61,7 +61,7 @@ proficiency bonus: '+2'`:+prof`
 **lay on hands:** 20 / '20'`:=5*lvl`
 
 ''`:=reset(longrest,shortrest)`
-**channel divinity:** 0 / 1
+**channel divinity:** 1 / 1
 
 ## Spells
 
@@ -69,7 +69,7 @@ proficiency bonus: '+2'`:+prof`
 
 | lvl1 spell slots |
 | ---------------- |
-| 0 / 3            |
+| 3 / 3            |
 
 **spell attack**: '+6'`:+=cha+prof`\
 **spell save dc**: '14'`:=8+cha+prof`\
