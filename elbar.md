@@ -78,14 +78,14 @@ proficiency bonus: '+2'`:+prof`
 **prepared spells:**
 
 - lvl1:
-    - detect magic (ritual)
+    - detect magic (ritual) <C>
     - cure wounds
-    - bless
+    - bless <C>
     - command
-    - compelled duel
-    - shield of faith
-    - bane (always prepared)
-    - hunter's mark (always prepared)
+    - divine favor <C>
+    - protection from evil and good <C>
+    - bane (always prepared) <C>
+    - hunter's mark (always prepared) <C>
 
 ## Other Proficiencies
 
